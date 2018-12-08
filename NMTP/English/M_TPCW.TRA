@@ -1,0 +1,86 @@
+//BCS
+@3 = ~Hey... How come I can't find evidence? (whispering to himself)~
+@4 = ~<CHARNAME> is my good friend...~
+@5 = ~Maybe I should not sue <CHARNAME> for such a small thing.~
+@6 = ~No way! I am innocent! You're all trying to set me up!~
+@65 = ~(Skills Identification...)~
+@66 = ~(Finishing Skills Identification).~
+@100 = ~(The witness suddenly panicked and the whole court proceeding engulfed chaos).~
+@101 = ~(The witness suddenly went crazy the guards tried to control the situation).~
+@102 = ~(Someone noticed that the witness is standing still strangely without moving almost like a statue).~
+@103 = ~(The witness danced and fooled around. Everyone realized he was a insane madman).~
+@104 = ~(The witness suddenly falls asleep. Nobody seems to able to wake him up).~
+@105 = ~(The witnesses helplessly group together they don't see what's coming).~
+@106 = ~(The witness looks at the lawenforcer with dull expression saliva seems to be dripping down his mouth).~
+////Subtitles on D files
+//Opening white
+//High reputation and high friendliness
+@1000 = ~Good day Your Honor. I was summoned here by the guards..~
+@1001 = ~Everybody knows <CHARNAME> - famous hero of Nashkel in that sense I want to show respect.~
+@1002 = ~I never thought this person would steal. <PRO_HESHE> opened my locked chest. I saw it with my own eyes so did others and called the guards immediately. I brought their testimony I have it in my bag.~
+//High reputation and friendship
+@1010 = ~Good day Your Honor. I was summoned here by the guards..~
+@1011 = ~Everybody knows <CHARNAME> is famous hero of Nashkel.~
+@1012 = ~I was surprised PRO_HESHE> was trying to open my chest. I immediately called guards. There are other witnesses as well. I brought their testimony in my bag.~
+//High reputation and low friendliness
+@1020 = ~Good day Your Honor. I was summoned here by the guards..~
+@1021 = ~Everybody knows <CHARNAME> is this so-called Hero of Nashel. I never believed in those rumors. In my opinion this person is hypocrite showing true colors.~
+@1022 = ~So when I saw <CHARNAME> opening my locked chest I did not hesitate to call the guards. I believe that the justice of Amn's law will uncover the mask of this hypocrite! I also brought testimony of other witnesses.~
+//High reputation
+@1030 = ~Good day Your Honor. I was summoned here by the guards..~
+@1031 = ~To be honest <CHARNAME> is my friend but this does not mean I will cover for him.~
+@1032 = ~So when I saw <PRO_HESHE> fiddled with my chest I still called the guards. I believe justice of the Amn's law should be upheld. I brought testimony of other witnesses. I have it in my bag.~
+//Medium reputation
+@1040 = ~Good day Your Honor. I was summoned here by the guards..~
+@1041 = ~I never knew <CHARNAME> before. I don't have anything against adventurers.~
+@1042 = ~But I know what I saw. <PRO_HESHE> opened my locked chest. Others saw this as well. I brought their testimony with me in my bag.~
+//Low reputation
+@1050 = ~Good day Your Honor. I was summoned here by the guards..~
+@1051 = ~<CHARNAME> is a brazen bastard who tried to steal from me right in front of me.~
+@1052 = ~So I immediately report it to the guards. Others beside me can prove this. I brought their testimony with me in my bag.~
+//Low reputation and high friendliness
+@1060 = ~Good day Your Honor. I was summoned here by the guards..~
+@1061 = ~Although <CHARNAME> carries a notorious reputation we are friends sort of.~
+@1062 = ~But I won't favor this person just because of our relationship. <PRO_HESHE> tried to steal from my belongings I gathered in locked chest. I reported it to the guards. I also have brought testimony of other witnesses.~
+//Low reputation
+@1070 = ~Good day Your Honor. I was summoned here by the guards..~
+@1071 = ~I don't know this person from before. But you and me both know <CHARNAME> is infamous villain.~
+@1072 = ~So when <PRO_HESHE> tried to steal something from my chest I was not surprised. I calmly called the guards. I also brought the testimony from other witnesses which I have in my bag.~
+//Low reputation and low friendliness
+@1080 = ~Good day Your Honor. I was summoned here by the guards..~
+@1081 = ~Everyone here knows <CHARNAME> is a wicked villain. I suggest your Honor don't waste any more time on this trial since this person is certainly guilty.~
+@1082 = ~So the it was like that - <PRO_HESHE> tried to steal from my chest so then I called the guards. I also brought testimony from the other witnesses in my bag.~
+////Debate begins
+@1100 = ~I am sorry for what happened friend. Is there anything else you want to say?~
+@1101 = ~\[Confabulate\] - Please believe me this all is a misunderstanding! I was framed by an evil wizard who I am chasing after. He put the illusion on himself to look like me and did everything in order to put the blame on me.~
+@1102 = ~\[Negotiate\] - I am sorry my friend. I didn't expect you to be so distrustful of me. Are you sure I am the right person?~
+@1104 = ~\[Intimidate\] - Yes  you all know me. I am like a grudge in the eye of the people. No one who threatens me live another day. Anyone who hurts me cannot demand peaceful death. This case may be over but the life you have friends is only one you get.~
+@1106 = ~\[Confabulate\] - Fools! There is a mysterious thief on the spree who steals from the rich and gives to the poor. You spooked him by suing me mistakenly for theft. There would be a bag full of gold for you. But it's too later now.~
+@1107 = ~\[Negotiate\] - Your honor please reconsider your decision. Don't draw conclusions so rapidly. Your Honor maybe your are just not sure? Please your Honor don't make fun of yourself and my reputation.~
+@1109 = ~\[Intimidate\] - Do you actually think you can get me convicted with this meager evidence? Do you really believe that Amn's law is based on so-called justice? Don't make me laugh! I advise you to drop it or else there will be troubles!~
+@1111 = ~\[Confabulate\] - The wrongdoer wasn't me or anyone in my party! How many times do I have to say it? Admit it you all identified the wrong person. I just had a bad luck of showing up after the real thief left the scene.~
+@1112 = ~\[Negotiate\] - Think about the benefits of convicting me? There are none. Give up on this meaningless case.~
+@1114 = ~\[Intimidate\] - How dare you accuse me? Do you even know who I am?!~
+@1200 = ~Hero of Nashkel I am sorry about this situation is there anything you want to ask me?~
+@1300 = ~You're a hypocrite <CHARNAME>. Is there anything else you want to say?~
+@1400 = ~Unfortunately my friend is there anything you want add?~
+@1500 = ~Anything else?~
+@1600 = ~If you don't have anything to say don't tarry on~
+@1700 = ~You really disappoint me my friend. I always believed in you no matter how others evaluate you but you...~
+@1800 = ~What do you want to ask me <CHARNAME>?~
+@1900 = ~You are just plain villain. Choose your words fast and quick.~
+//Skill result
+//GG
+@2000 = ~\[Success\]What you said seems to make sense (thinks about it). I will seriously consider it.~
+@2020 = ~\[Failed\]Don't try to fool me. I am not an idiot.~
+@2100 = ~\[Success\]What you said makes sense I will consider it.~
+@2120 = ~\[Failed\]I don't agree with you.~
+@2300 = ~\[Success\]Don't act like this. By no means I am not malicious. Let me think about.~
+@2320 = ~\[Failed\]Don't think you can threaten me like this. There are guards here by my side.~
+@2330 = ~\[Success\]This... you may be right. Let me think about it.~
+@2350 = ~\[Failed\] I don't believe what you said. I know that the local law enforcement are honest and will give you the fair punishment you deserve.~
+@2360 = ~\[Success\]Please... please let me think again.~
+@2380 = ~\[Failed\]You threats are useless. You better tell as truth.~
+////Other actions
+@100000 = ~Please give me some time I need to think about it.~
+@100110 = ~I have nothing to say just wait for the judge's judgment.~

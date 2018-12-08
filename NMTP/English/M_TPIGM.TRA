@@ -1,0 +1,29 @@
+@100 = ~How do you want to organize the gold?~
+@101 = ~Put the gold in the bag.~
+@102 = ~Remove the gold from the bag.~
+@103 = ~Re-sort the gold in the bag~
+@104 = ~No Action.~
+@105 = ~Turn on automatic mode.~
+@106 = ~Turn off automatic mode.~
+
+@110 = ~How do you want to split your gold?~
+@111 = ~Put 5,000 gold in one big bag.~
+@112 = ~Put 500 gold in a regular bag.~
+@113 = ~Put 50 gold in a coin purse.~
+@114 = ~Do nothing.~
+@115 = ~Put all the gold coins in the corresponding bags.~
+
+@120 = ~From which bag you want to remove gold?~
+@121 = ~Take out gold from the big bag.~
+@122 = ~Take out gold from the regular bag.~
+@123 = ~Take out gold from the coin purse.~
+@124 = ~Remove all gold from the bag.~
+
+@130 = ~How to redistribute the gold in your bags?~
+@131 = ~Put 10 regular bags into one big.~
+@132 = ~Put 10 coin purses into one regular bag.~
+@133 = ~Split the gold from  a big bag into 10 regular bags.~
+@134 = ~Split the gold from a regular bag into 10 coin purses.~
+@135 = ~Put the gold in big bags as much as possible.~
+@136 = ~Put the gold in the regular bags as much as possible.~
+@137 = ~Put the gold in the coin purses as much as possible.~

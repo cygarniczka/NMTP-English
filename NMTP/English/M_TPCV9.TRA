@@ -1,0 +1,81 @@
+@65 = ~(Skills Identification...)~
+@66 = ~(Finishing Skills Identification).~
+@101 = ~(Cooking is over).~
+//BARD
+@200 = ~(You successfully cooked delicious dish).~
+//Ê§°Ü
+@300 = ~(You failed to mix right ingredients and screwed things up).~
+////
+@1000 = ~You decide not to cook anything.~
+@1001 = ~How are you going to prepare piece of rat meat?~
+@1002 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1003 = ~\[Cook\] - You are ready to hone your cooking art and make a refined roast out of it.~
+////
+@1004 = ~How are you going to prepare piece of bear meat?~
+@1005 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1006 = ~\[Cook\] - You are ready to hone your cooking art and roast bear over the fire.~
+@1007 = ~\[Cook\] - You are ready to challenge your cooking art and make a honey bear chops.~
+////
+@1008 = ~How are you going to prepare bear paws and legs?~
+@1009 = ~\[Cook\] - You are ready to challenge your art and make a braised bear's paw.~
+////
+@1010 = ~How are you going to prepare dog meat?~
+@1011 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1012 = ~\[Cook\] - You are ready to hone your cooking art and roast it.~
+@1013 = ~\[Cook\] - You are ready to challenge your cooking art and make dog meat dish.~
+////
+@1014 = ~How are you going to prepare wolf meat?~
+@1015 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1016 = ~\[Cook\] - You are ready to hone your cooking art and roast it.~
+@1017 = ~\[Cook\] - You are ready to challenge your cooking art and make charcoal grilled wolf.~
+////
+@1018 = ~How are you going to prepare tiger bones?~
+@1019 = ~\[Cook\] - You are ready to challenge your cooking art and make a tiger bone soup.~
+////
+@1020 = ~How are you going to prepare leopard bones?~
+@1021 = ~\[Cook\] - You are ready to challenge your cooking art and make a leopard bone soup.~
+////
+@1022 = ~How are you going to prepare venison?~
+@1023 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1024 = ~\[Cook\] - You are ready to hone your cooking art and roast deer over the fire.~
+@1025 = ~\[Cook\] - You are ready to challenge your cooking art and make lilac venison.~
+////
+@1026 = ~How are you going to prepare antlers?~
+@1027 = ~\[Cook\] - You are ready to challenge your cooking art and make Bazhen velvet soup.~
+////
+@1028 = ~How are you going to prepare rabbit meat?~
+@1029 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1030 = ~\[Cook\] - You are ready to hone your cooking art and make refined roasted rabbit.~
+@1031 = ~\[Cook\] - You are ready to challenge your cooking art and make rabbit meat dish.~
+////
+@1032 = ~How are you going to prepare piece of beef?~
+@1033 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1034 = ~\[Cook\] - You are ready to hone your cooking art and roast it whole.~
+@1035 = ~\[Cook\] - You are ready to challenge your cooking art and make royal steak.~
+////
+@1036 = ~How are you going to prepare wywern meat?~
+@1037 = ~\[Cook\] - You are going to try to cook it directly over the fire and filter out the toxins from the meat.~
+////
+@1038 = ~How are you going to prepare spider remains?~
+@1039 = ~\[Cook\] - You are ready to try to bake it and remove the poison pouch and hair.~
+////
+@1040 = ~How are you going to prepare dragon meat?~
+@1041 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1042 = ~\[Cook\] - You are ready to hone your cooking art and make refined dragon roast.~
+@1043 = ~\[Cook\] - You are ready to challenge your cooking art and make secret dragon meat dish.~
+////
+@1044 = ~How are you going to prepare salmon meat?~
+@1045 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1046 = ~\[Cook\] - You are ready to challenge your cooking art and Sweet Sour Salmon Soup.~
+////
+@1047 = ~How are you going to prepare tuna meat?~
+@1048 = ~\[Cook\] - You are going to try to marinate it directly into dried fish.~
+@1049 = ~\[Cook\] - You are ready to challenge your cooking art and make licorice cheese fish~
+////
+@1050 = ~How are you going to prepare snake meat?~
+@1051 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1052 = ~\[Cook\] - You are ready to challenge your cooking art and make Salt and Pepper Snake.~
+////
+@1053 = ~How are you going to prepare chicken meat?~
+@1054 = ~\[Cook\] - You are going to fry it on the pen directly.~
+@1055 = ~\[Cook\] - You are ready to challenge your cooking art and make crispy roast chicken.~

@@ -1,0 +1,52 @@
+//Subtitles on the script
+@2 = ~They are trying to kill me! Help!~
+@3 = ~Oh I am just a chef here.~
+@4 = ~Don't...~
+@10 = ~Don't steal my food!~
+@11 = ~Coo me something well.~
+@12 = ~Um... This tastes delicious. Keep up with your good cooking.~
+//Task related
+@100 = ~Useful skills for living
+You meet a chef who can train in \[cooking\] skills at Feldepost's Inn.~
+////Subtitles on D files
+//Opening white
+@1000 = ~<LADYLORD> do you need any help?~
+@1001 = ~Are you a chef here?~
+@1002 = ~No I am the *master* chef here. If you order any food or wine please talk to the bartender or others.
+I only occasionally serve the distinguished guests who make appointments... Sorry it looks like you are not one of them.~
+@1003 = ~In other words you are the head chef but most of the time do not cook?~
+@1004 = ~Yes but that doesn't mean I don't do anything. (He frowns then glances around) I am responsible for teaching the new cooks good cooking skills as well as purchasing fresh ingredients.~
+@1005 = ~Can you teach me your cooking skills?~
+@1006 = ~Can I buy some ingredients from you?~
+@1007 = ~I have a recipe here. Can you help me prepare the ingredients?~
+@1008 = ~Oh I understand. Bye.~
+
+@1010 = ~(He looks at you with a little surprise.) I thought you were a purely four-legged adventurer animal. I can teach you cooking skills but you have to pay me 300 gold coins first.~
+@1011 = ~Here is the gold.~
+@1012 = ~Let me think about it. See you.~
+@1013 = ~Do you also like to cooking? I thought the adventurers were only interested in doing risky cave explorations.
+I can teach you to improve your \[cooking\] skills. You know... I have nothing to do anyway right anyway. Do you want to start training now??~
+
+@1020 = ~(Takes your gold). Shall we start right now?~
+@1021 = ~Yes please.~
+@1022 = ~No I will come to you when I am ready.~
+
+@1030 = ~How many hit points do you want to spend on learning\[Cooking\] skill? Note that you cannot learn more skill than your current level.~
+@1031 = ~I am going to spend 1 hit point on\[Cooking\] skill.~
+@1032 = ~I am going to spend 2 hit points on\[Cooking\] skills.~
+@1033 = ~I am going to spend 3 hit points on\[Cooking\] skills.~
+@1034 = ~I want to spend as much as hit points as possible on\[Cooking\] skills.~
+@1035 = ~I don't want to train any skills now I will come to you when I am ready.~
+
+@1040 = ~Hello is there anything you need help with?~
+@1041 = ~Here is the gold. I want to learn how to be a good cook.~
+@1042 = ~Yes. I want to improve my \[Cooking\] skills.~
+@1043 = ~Can I buy some ingredients from you?~
+@1044 = ~I have a recipe here. Can you help me prepare the ingredients?~
+@1045 = ~Nothing now. Bye.~
+
+@1050 = ~You are already a master chef yourself. There is nothing I can teach you. Perhaps there is a better chef somewhere in Baldur's Gate but I doubt it.~
+@1051 = ~Thanks I understand.~
+
+@1060 = ~Yes what do you want to buy?~
+@1061 = ~Yes but I can only sell you up to three ingredients each day.~

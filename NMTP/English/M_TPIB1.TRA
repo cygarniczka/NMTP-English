@@ -1,0 +1,10 @@
+@65 = ~(Skills Identification).~
+@66 = ~(Finishing Skills Identification).~
+@100 = ~(You can't deceive him by this means),~
+@101 = ~Hey... Where did my coin purse go?~
+@1000 = ~Is there a problem <LADYLORD>?~
+@1001 = ~\[Deceive\] - Excuse me... Is this your coin purse? (Give Bag of Pranks).~
+@1002 = ~You are not saying you have my purse. Where did you hide my coin purse?~
+@1003 = ~Nothing sorry. I admit I have the wrong person.~
+@2000 = ~\[Success\]Thank you! I lost this coin purse (Takes Bag of Pranks).~
+@2020 = ~\[Failed\] No this is not my coin purse <LADYLORD>. You better return this to the guards.~

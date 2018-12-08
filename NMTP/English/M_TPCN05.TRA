@@ -1,0 +1,33 @@
+//Subtitles on the script
+@2 = ~Don't kill me please... Anybody help!~
+@3 = ~Watch yourself.~
+@4 = ~What?~
+@10 = ~The registration of the Five Flagon Inn actor training class has began!
+If you want to become a prominent actor come and sign up.~
+//Task related
+@100 = ~Useful skills for living
+On the second floor at Five Flagon Inn there is an actor who can train you in \ [performance\] skills.~
+////Subtitles on D files
+//Opening white
+@1000 = ~Hey there! Is there anything I can do you?~
+@1001 = ~I heard that the performance training class are here. Are you enrolling students?~
+@1002 = ~Nothing now. Bye.~
+
+@1010 = ~Yes, yes! Just pay me 1000 gold and you can come to me train your \ [performance] skills any time.
+Imagine that for mere 1000 gold coins you can become a professional actor.~
+@1011 = ~This all the gold you wanted.~
+@1012 = ~Let me think about it more. See you.~
+
+@1020 = ~(Counts all the gold coins) Okay every coin is there. Alright. Are we going to start training now?~
+@1021 = ~Yes.~
+@1022 = ~No need to hurry. I will come to you when I am ready.~
+
+@1030 = ~How many hit points do you want to spend on learning\[Performance\] skill? Note that you cannot learn more skill than your current level.~
+@1031 = ~I am going to spend 1 hit point on\[Performance\] skill.~
+@1032 = ~I am going to spend 2 hit points on\[Performance\] skills.~
+@1033 = ~I am going to spend 3 hit points on\[Performance\] skills.~
+@1034 = ~I want to spend as much as hit points as possible on\[Performance\] skills.~
+@1035 = ~I don't want to train any skills now I will come to you when I am ready.~
+
+@1040 = ~Hey how are you? Nice to meet you again do you want to start training now?~
+@1041 = ~Yes. I want to increase my \[Performance\] skills.~

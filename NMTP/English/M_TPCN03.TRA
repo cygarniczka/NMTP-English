@@ -1,0 +1,57 @@
+//Subtitles on the script
+@2 = ~Someone wants to kill me! Help!~
+@3 = ~Watch yourself.~
+@4 = ~Dont'...~
+@10 = ~...In Your Voice And In Your Smile
+Not Too Long Ago There Was Still Joy
+But It Has Passed Away As I should Have Passed Away
+Oh My Sweet Gorgeous Mary.~
+@11 = ~...Wandering About The Incoming Storm
+Like Golden Hair of Mary Fluttered In The Wind
+You Sing Dire For This Year Never To Die
+When The Curtain Of The Night Falls
+Covering Dome of Your Love Will Shape Twist and Turn
+Your Fate Like One Condensed Cloud Pouring Down
+The Tears Of Joy and Sorrow.~
+@12 = ~...And You See The Mountain Peak Kissing the Sky
+Wind Waves Form Into One
+Flowers Are Like Sisters and Brothers
+The Sun Is Holding the Earth
+The Moon Kisses The Dark Cloak of Night
+Then What Is The Meaning of Such Beauty?
+If You Don't Kiss Me Now?~
+//Task related
+@100 = ~Useful skills for living
+You met a street performer who was willing to train your performance skills at the West Nashkel Carnival.~
+@101 = ~Useful skills for living 
+You heard that there is a famous master performer in the Baldur's Gate - Mr. Vassons.~
+////Subtitles on D files
+//Opening white
+@1000 = ~Is there anything I can do for you <LADYLORD>?~
+@1001 = ~Your performance looks elegant. Can you teach me?~
+@1002 = ~Nothing at this time goodbye.~
+
+@1010 = ~Do you also like to perform? I can't imagine it. Oh sorry I don't mean to be rude but you seem to be an adventurer. I thought the adventurers were only interested in risky endeavors.
+Anyway I can train your \[performance\] skills but you have to give me payout of 100 gold coins.~
+@1011 = ~This is the gold you wanted.~
+@1012 = ~Let me think about it again. See you later.~
+@1013 = ~Do you also like to perform? I can't imagine it. Oh sorry I don't mean to be rude but you seem to be an adventurer. I thought the adventurers were only interested in risky endeavors.
+I am willing to teach you \ [performance \] skills. Shall we start training now?~
+
+@1020 = ~(Takes your gold coin bag). Thank you for your generosity <LADYLORD>. You have to know that it is not easy for us to make living as artists. Well no more of this nonsense. We have to start training now, yes?~
+@1021 = ~Yes.~
+@1022 = ~No. I will return to you when I am ready.~
+
+@1030 = ~How many hit points do you want to spend on learning\[Performance\] skill? Note that you cannot learn more skill than your current level.~
+@1031 = ~I am going to spend 1 hit point on\[Performance\] skill.~
+@1032 = ~I am going to spend 2 hit points on\[Performance\] skills.~
+@1033 = ~I am going to spend 3 hit points on\[Performance\] skills.~
+@1034 = ~I want to spend as much as hit points as possible on\[Performance\] skills.~
+@1035 = ~I don't want to train any skills now I will come to you when I am ready.~
+
+@1040 = ~Is there anything I can help you with <LADYLORD>? (Slightly salutes you).~
+@1041 = ~I want to train more \[Performance\] skills.~
+
+@1050 = ~Sorry I am afraid I can't teach you nothing new. If you want to continue to deepen your capabilities I suggest you go to the Baldur's Gate. 
+I heard that famous Master Performer Mr. Vassons is there who goes through some crisis. Maybe you can try to convince him to be your teacher.~
+@1051 = ~Thank you for the information.~

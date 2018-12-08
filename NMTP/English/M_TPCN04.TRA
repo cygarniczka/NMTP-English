@@ -1,0 +1,48 @@
+//subtitles on the script
+@1 = ~No I don't want to travel.~
+@2 = ~This kind of behavior is inappriopriate.~
+@3 = ~Watch Yourself.~
+@4 = ~Is it finally over?~
+@10 = ~\[Observation\](You try to pick up on more details watching his body language and voice tone).~
+@11 = ~(You can't seem to come up with anything).~
+//Task related
+@100 = ~Useful skills for living
+You found the the famous Master Performer Mr. Vassons in the Elf Song Tavern.~
+////Subtitles on D files
+//Opening white
+@1000 = ~Sorry please don't bother me I want to be left alone.
+(He leans on the wall and meditates. He isn't concerned by your arrival at the inn. The handsome and elegant lining of his face reveals he's of elf blood but obviously mixed-race as well.)~
+@1001 = ~Are you Mr. Vassons?~
+@1002 = ~Hello Mr. Vassons I don't think we met before.
+In fact we came to you to learn the skills of a master performer. Can you teach me?~
+@1003 = ~I am sorry you look a little sad. Has something happened? Is it related to your inner artistic spirit and the song that just plays?~
+@1009 = ~Alright. See you.~
+
+@1010 = ~Yes it is. If you want to show you how to perform I am afraid I will let you down. I am tired of performing. Right now I just want to be alone - be the *one* with myself.~
+@1011 = ~Sorry to bother you. Bye.~
+
+@1013 = ~Want to learn to perform better? It seems like some of you are quite talented. Okay I don't plan to perform anymore but I can teach you what I know.
+Do you want to start training right now?~
+@1014 = ~Oh you do like the song here too? Yes... this song is really beautiful and it has special meaning for me. I think you have noticed that I am a half-elf. My father is a human and I have been living with my mother in my childhood.~
+@1015 = ~Humans and elves in my hometown lived in piece until one day when the conflict erupted. The war took my mother's life and killed most of my people. I survived. The reason why I am alive is because aggressor was my own father! I left him behind and tried to find what was left of my family. I called myself Vasonis, which means exiles in the Elvish language.~
+@1016 = ~I traveled all around Faerûn's mainland but I have never found a survivor from my hometown. I think they are deliberately avoiding me... The fantastic singing here reminds me of a good times in my childhood. It is rare to find something like that here. It comforts me.~
+@1017 = ~Oh... thank you for listening me. I am sorry about saying so much that has nothing to do with you. Well maybe because you are very good at listening I opened up a little.
+By the way you seem to be looking for me because there are finer things in life right?~
+
+@1018 = ~Yes in fact we are looking for you. We want to learn the skills of master performer. Can you teach us?~
+
+@1020 = ~Let me think about it... I might just well get used to my awkward return. I can teach you everything I have learned. Do you want to start training now?~
+
+@1021 = ~Yes.~
+@1022 = ~Not now I come to you when I am ready.~
+
+@1030 = ~How many hit points do you want to spend on learning\[Performance\] skill? Note that you cannot learn more skill than your current level.~
+@1031 = ~I am going to spend 1 hit point on\[Performance\] skill.~
+@1032 = ~I am going to spend 2 hit points on\[Performance\] skills.~
+@1033 = ~I am going to spend 3 hit points on\[Performance\] skills.~
+@1034 = ~I want to spend as much as hit points as possible on\[Performance\] skills.~
+@1035 = ~I don't want to train any skills now I will come to you when I am ready.~
+
+@1040 = ~We met again. Is there anything I can do for you?~
+@1041 = ~I want to increase my \[Performance\] skills.~
+@1042 = ~Nothing I am just here to say hello.~

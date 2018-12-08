@@ -1,0 +1,51 @@
+//Subtitles on the script
+@2 = ~Anybody help!~
+@3 = ~Take care of yourself.~
+@4 = ~What?~
+@10 = ~If only I was younger couple years~
+//Task related
+@100 = ~Useful skills for living
+You have found an old chef who can train your \[cooking] skills~
+////Subtitles on D files
+//Opening white
+@1000 = ~Young folks why are you looking at me like that?~
+@1001 = ~Who are you?~
+@1002 = ~The people call me old Tom here. I am telling you when I was younger I was the head chef of the Grand Duke of Baldur's Gate. But now that I am old I can't continue working anymore. Now only things I can do is to help young cooks choose fresh ingredients.~
+@1003 = ~It sounds like you are superb at cooking. Can you teach me?~
+@1004 = ~Can I buy some fresh ingredients from you?~
+@1005 = ~I have a recipe here. Can you help me prepare the ingredients?~
+@1006 = ~Oh I understand. Bye.~
+
+@1010 = ~(He looks at you for a while). I never thought about taking in an apprentice but maybe you can be an exception. But you have to pay me 300 gold coins as a signing fee.~
+@1011 = ~Here is the gold.~
+@1012 = ~Let me think about it.~
+@1013 = ~Do you also like cooking? I can teach you the \[Cooking\] skills. Anyway if you have spare time I can teach you. Do you want to start training now?~
+
+@1020 = ~Well are we going to start cooking training now?~
+@1021 = ~Yes.~
+@1022 = ~No need to hurry. I will come back when I am ready.~
+
+@1030 = ~How many hit points do you want to spend on learning\[Cooking\] skill? Note that you cannot learn more skill than your current level.~
+@1031 = ~I am going to spend 1 hit point on\[Cooking\] skill.~
+@1032 = ~I am going to spend 2 hit points on\[Cooking\] skills.~
+@1033 = ~I am going to spend 3 hit points on\[Cooking\] skills.~
+@1034 = ~I want to spend as much as hit points as possible on\[Cooking\] skills.~
+@1035 = ~I don't want to train any skills now I will come to you when I am ready.~
+
+@1040 = ~Hello young folks is there anything old Tom can do for you?~
+@1041 = ~Here is the gold. I want to learn how to be a good cook.~
+@1042 = ~Teach me how to be a master chef.~
+@1043 = ~Can I buy some fresh ingredients from you?~
+@1044 = ~I have a recipe here. Can you help me prepare the ingredients?~
+@1045 = ~Nothing now just saying hello.~
+
+@1060 = ~Yes you want to buy something?~
+@1061 = ~Yes but I can only sell you up to three ingredients each day.~
+
+@2000 = ~<CHARNAME> I did not expect to meet you in Amn.~
+@2001 = ~Old Tom how are you doing here?~
+@2002 = ~One of the Grand Dukes came here to do the business in Athkatla and now I have some spare time for myself. I haven't seen you for a long time. Is there anything you need help with?~
+@2003 = ~Teach me please how to be a master chef.~
+@2004 = ~Can I buy some fresh ingredients from you?~
+@2005 = ~I have a recipe here. Can you help me prepare the ingredients?~
+@2006 = ~Oh I understand. Bye.~

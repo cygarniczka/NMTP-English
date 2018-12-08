@@ -1,0 +1,49 @@
+@65 = ~(Skills Identification...)~
+@66 = ~(Finishing Skils Identification)~
+@100 = ~(Begin the performance)~
+@101 = ~(Climax of the performance)~
+@102 = ~(Finish the performance)~
+@103 = ~Your reputation increases by 1 point~
+//BARD
+@200 = ~\(Your melodious tunes have succesfully won praises from spectators).~
+@201 = ~\(Your agile skills has successful won praises from spectators).~
+@202 = ~\(Your spectacular acrobatics skills won praises from spectators).~
+//failure
+@300 = ~\[Failed\](You break string in your harp).~
+@301 = ~\[Failed\](You slip and fall).~
+@302 = ~\[Failed\](You fell down on your back).~
+@499 = ~This is terrible performance. Boo!~
+@500 = ~<HISHER> performance was alright.~
+@501 = ~<HISHER> performance is not that bad.~
+@502 = ~(Light applause).~
+@503 = ~Yes I still like it very much.~
+@504 = ~You put on great show!~
+@505 = ~(Applause).~
+@506 = ~Quiet let <HISHER> continue the performance.~
+@507 = ~This is great! I am glad I came here.~
+@508 = ~Awesome! This is the best show I have ever seen.~
+@509 = ~Unbelievable this is really good!~
+
+@1000 = ~You take out the harp and start preparing to play a song.~
+@1010 = ~\[Perform\] - You decide to take a routine performance and play a popular light tune.~
+@1020 = ~\[Perform\] - You decide to play an entertaining song and dance cheerfully.~
+@1030 = ~\[Perform\] - You decide to do an outstanding performance you use superb singing and tunes to impress everyone here.~
+@1040 = ~\[Perform\] - You decide to give an unforgettable performance and leave a deep impression on the people who gathered here.~
+@1050 = ~\[Perform\] - You decide to put it all you've got so that your singing voice will be unforgettable memory for everyone here.~
+@1060 = ~Finish your performance.~
+
+@2000 = ~You are ready to show your unique performance.~
+@2010 = ~\[Perform\] - You decide to take a routine performance and show your flexible skills.~
+@2020 = ~\[Perform\] - You decide to come up with entertaining performance with some acrobatics such as throwing knives and jumping jacks.~
+@2030 = ~\[Perform\] - You decided to come to an outstanding performance and use the unusual acrobatic performances to surprise the people here.~
+@2040 = ~\[Perform\] - You decide to give an unforgettable performance and leave a deep impression on the people who gathered here.~
+@2050 = ~\[Perform\] - You decide to try a great performance, so that your agile skills will always be imprinted in the memory of everyone here.~
+@2060 = ~Finish your performance.~
+
+@3000 = ~You are ready to perform your freestyle martial arts.~
+@3010 = ~\[Perform\] - You decide to take a routine performance and show your flexibility.~
+@3020 = ~\[Perform\] - You decide to come to an entertaining performance and throw fast punches.~
+@3030 = ~\[Perform\] - You decide to come to an outstanding performance and show off your superb martial arts move combination.~
+@3040 = ~\[Perform\] - You decide to give an unforgettable performance and leave a deep impression on the people who gathered here.~
+@3050 = ~\[Perform\] - You decide to try a great performance so that your martial arts move combinations will always be imprinted in the memory of everyone who gathered here.~
+@3060 = ~Finish your performance.~

@@ -1,0 +1,27 @@
+@65 = ~(Skills identification).~
+@66 = ~(Finishing Skills Identification).~
+@100 = ~(Begin the performance).~
+@101 = ~(Performance Climax).~
+@102 = ~ги(Finish the performance).~
+@103 = ~Your reputation increased by 1 point.~
+//BARD
+@200 = ~(You wonderful performance has won praises).~
+//failure
+@300 = ~(You failed to memorize the lyrics you forget some lines).~
+@499 = ~This is a terrible performance. Boo!~
+@500 = ~<HISHER> performance was alright.~
+@501 = ~<HISHER> performance is not that bad.~
+@502 = ~(Light applause).~
+@503 = ~Yes I still like it very much.~
+@504 = ~You put on great show!~
+@505 = ~(Applause).~
+@506 = ~Quiet let <HISHER> continue the performance.~
+@507 = ~This is great! I am glad I came here.~
+@508 = ~Awesome! This is the best show I have ever seen.~
+@509 = ~Unbelievable this is really good!~
+
+@1000 = ~You go over the "Nashkel Carnival Collection" where performances of all kinds of difficulty are listed along with improvisational theatrics and gorgeous masterpieces.~
+@1010 = ~\[Perform\] - You are ready to start a simple performance.~
+@1020 = ~\[Perform\] - You have selected a script with some difficulty.~
+@1030 = ~\[Perform\] - You found a classic masterpiece for carnival performance.~
+@1060 = ~(You finish your performance).~

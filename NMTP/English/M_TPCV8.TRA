@@ -1,0 +1,27 @@
+@65 = ~(Skills Identification...)~
+@66 = ~(Finishing Skill Identification).~
+@100 = ~(The show begins).~
+@101 = ~(Climax of the performance).~
+@102 = ~(Show ends).~
+@103 = ~Your reputation increased by 1 point.~
+//BARD
+@200 = ~(You wonderful performance has won praises).~
+//failure
+@300 = ~(You failed to memorize the lyrics you forget some lines).~
+@499 = ~This is a terrible performance. Boo!~
+@500 = ~<HISHER> performance was alright.~
+@501 = ~<HISHER> performance is not that bad.~
+@502 = ~(Light applause).~
+@503 = ~Yes I still like it very much.~
+@504 = ~You put on great show!~
+@505 = ~(Applause).~
+@506 = ~Quiet let <HISHER> continue the performance.~
+@507 = ~This is great! I am glad I came here.~
+@508 = ~Awesome! This is the best show I have ever seen.~
+@509 = ~Unbelievable this is really good!~
+
+@1000 = ~As you go over the "Copper Cornet Song Collection" you discovered some rare ancient songs after careful study. Booklet list mostly local traditional Athkatla songs.~
+@1010 = ~\[Perform\] - You picked a simple song.~
+@1020 = ~\[Perform\] - You picked a piece difficult to perform.~
+@1030 = ~\[Perform\] - You have found a rare ancient song and you believe that if the performance is successful there will be some repercussions.~
+@1060 = ~(You finish your performance).~

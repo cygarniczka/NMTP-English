@@ -1,0 +1,70 @@
+//Subtitles on the script
+@1 = ~No I prefer to stay here.~
+@2 = ~You dare to attack me?~
+@3 = ~Be careful with my wine.~
+@4 = ~Hah spoiled.~
+@10 = ~\[Observe\](You noticed that his left eye is a prosthetic eye).~
+@11 = ~(There seems to be something that draws your attention).~
+@65 = ~(Skills Identification...)~
+@66 = ~£¨Finishing Skills Identification£©~
+//Task related
+////Subtitles on D files
+//Opening white
+@1000 = ~I do not know you... (The drunken old man turns his head and glances at you. You notice that his left eye flashed briefly a strange light.) You got the wrong guy.~
+@1001 = ~My bad goodbye.~
+
+@1010 = ~It's yet another group of young adventurers. What do you want from Single-Eyed Owlet?~
+@1011 = ~Excuse me... If I may what happened to your left eye?~
+@1012 = ~(Hiccup! )... It¡¯s not a good habit to inquire about other people¡¯s private affairs. (The old man turns his head and stares at you. You suddenly felt an inexplicable fear that made you breathless. When you find that your hand is starting to tremble 
+the old man suddenly smiles and you feel a moment of ease). Come have a drink with me!~
+@1013 = ~Thank you. (You ask carefully organizing your words). Please tell me how did you do it?~
+@1014 = ~(The old man looks at you thoughtfully his eyes are not the same and when he blinks you can see briefly light flashing in them).
+Fear does not come from external threats but from internal reactions. Some of you have strong insights. If you want to learn these skills I can teach you.~
+@1015 = ~I would appreciate.~
+
+@1020 = ~Ah it's again you young adventurers done chasing shit dogs?~
+@1021 = ~How do you know that we were killing the Kobolds?~
+@1022 = ~(Sniffs). Because you are all stinking bad. (The old man sipped his drink and you noticed that his eyes flashed differently). Come I invite you to have a drink. I never drunk with the hero of Nashkel.~
+@1023 = ~Thank you. You have  piercing and forceful disposition about you. Can you teach me how to be like this?~
+@1024 = ~(The old man turns his head and looks at you in amazement then suddenly burst laughing).
+The hero of Nashel wants to learn from the old Owlet? Hahahaha! Yes but you have to pay me some money for the drinks. I can't teach you when I am sober. Well... 200 gold coins should suffice.~
+@1025 = ~Thank you this gold will be enough.~
+@1026 = ~I am not sure I will consider it.~
+
+@1030 = ~It¡¯s you young adventurer don¡¯t be collectin' the scalps of the old Owlet ye know?~
+@1031 = ~How did you know we were killing bandits?~
+@1032 = ~(Sniffs) When there are army patrols being pulled out from the field and your outfit and armors don't look exactly dry I know what you were doing.
+Come have a drink on me my Heroes of the Sword Coast.~
+@1033 = ~Thank you. You have  piercing and forceful disposition about you. Can you teach me how to be like this~
+@1034 = ~(The old man turns his head and looks at you in amazement then suddenly burst laughing).
+The hero of Nashel wants to learn from the old Owlet? Hahahaha! Yes but you have to pay me some money for the drinks. I can't teach you when I am sober. Well... 100 gold coins should suffice.~
+@1035 = ~Thank you this all the gold I wanted.~
+@1036 = ~I am not sure I will consider it.~
+
+@1040 = ~Ahoy. Yer want anything from the old Owlet?~
+@1041 = ~This is the gold you wanted.~
+@1042 = ~Nothing just saying hello.~
+
+@1060 = ~What do you want to learn?~
+@1061 = ~I want to train\[Intimidation\]skills.~
+@1062 = ~I want to train\[Observation\]skills.~
+@1063 = ~I will come back to you when I want to train more.~
+
+@1100 = ~I am happy to see you whatcha want from the old Single-Eyed Owlet?~
+@1101 = ~I want to train\[Intimidation\]skills.~
+@1102 = ~I want to train\[Observation\]skills.~
+@1103 = ~I just wanted to say hello.~
+
+@1110 = ~How many hit points do you want to spend on learning\[Intimidation\] skill? Note that you cannot learn more skill than your current level.~
+@1111 = ~I am going to spend 1 hit point on\[Intimidation\]skill.~
+@1112 = ~I am going to spend 2 hit point on\[Intimidation\]skills.~
+@1113 = ~I am going to spend 3 hit point on\[Intimidation\]skills.~
+@1114 = ~I want to spend as much as hit points as possible on\[Intimidation\]skills.~
+@1115 = ~I don't want to train any skills now I will come to you when I am ready.~
+@1120 = ~How many hit points do you want to spend on learning\[Observation\] skill? Note that you cannot learn more skill than your current level.~
+@1121 = ~I am going to spend 1 hit point on\[Observation\]skill.~
+@1122 = ~I am going to spend 2 hit point on\[Observation\]skills.~
+@1123 = ~I am going to spend 3 hit point on\[Observation\]skills.~
+@1124 = ~I want to spend as much as hit points as possible on\[Observation\]skills.~
+@1125 = ~I don't want to train any skills now I will come to you when I am ready.~
+//Skill identification result

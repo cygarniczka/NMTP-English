@@ -1,0 +1,64 @@
+//Subtitles on the script
+@1 = ~Thank you kindly for offer but unfortunately I have to refuse. I still have things to take care of.~
+@2 = ~You actually attacked me? Then goodbye! I am goner~
+@3 = ~Please don't fight here it creates disruption for the others.~
+@4 = ~Evil one...~
+@65 = ~(Skills Identification...)~
+@66 = ~(Finishing Skills Identification)~
+//Task related
+////Subtitles on D files
+//Opening white
+@1000 = ~Hello <LADYLORD> is there anything I can help you with? (Quickly glanced at you then turn attention to the gambling table). Take a guess who will win over there.~
+@1001 = ~Excuse me but can you tell me who are you?~
+@1010 = ~You don't know my name? I bet you must have just arrived here. (Shows a scornful smile and then turns his eyes onto you). Let me introduce myself. Gin is my last name. People here usually call me Akin. 
+I am familiar with the laws of various jurisdictions and know a lot of exquisite language skills... Do you know what I mean? If you have any lawsuits, you can come to me for help.~
+@1011 = ~Sounds like you are master orator can you teach me your skills?~
+@1020 = ~(Smiles at you) Training you? Um... I think so, but you have to pay me 1000 gold coins as a reward or promise to do something for me then I will train you in confabulation and negotiation - these two new skill sets all for you.~
+@1021 = ~I am willing to pay you 1000 gold coins.~
+@1022 = ~\[Negotiation\] - This is costly but I really want to learn from you. Can you lower your price?~
+@1023 = ~What do you need us to do for you?~
+@1024 = ~Please give me some time to consider. I will return to you when I make up my mind.~
+@1025 = ~Ok I will give you a discount as long as you pay me 600 gold coins I will teach you.~
+@1026 = ~Thank you this is the gold you wanted.~
+@1027 = ~It's still too expensive for us. Please give me some time to consider. I will return to you when I make up my mind.~
+@1028 = ~If you are planning to learn to negotiate and confabulate then pay me 1000 gold coins or promise to do something for me. How about it?~
+@1030 = ~From the outfits your were I know you're all adventurers. In fact I am looking for my twin sister Amily. If you promise to help me find her I will teach you those skills.~
+@1031 = ~I've never come across her during my journey. But I promise I will find her. Can you give me some clues of her whereabouts?~
+@1032 = ~Please give me some time to consider. I will return to you when I make up my mind.~
+@1040 = ~I was always traveling around blindly looking for her. Recently I stumbled across the clue about her. 
+In the town of Nashkel not far from here. The guards chased the thief Ryu who dropped the ring. I was at the scene and I recognize this ring. It was given to my sister Amily long time ago by our grandfather.~
+@1041 = ~I don't know how the ring will fell in the hands of the thief. You should probably get the ring first and then use this as a clue to search for the thief. May he knows Amily's whereabouts.~
+@1042 = ~The ring is n the guards' hand? So how can we get that ring?~
+@1050 = ~I don't know how to get the guards to give you the ring. I tried to tell them the story but they refused to believe me. I almost got implicated to be mixed up with that thief. 
+Maybe you can try to get in touch with local law enforcers directly. With the reputation of your adventures if they trust you they will be more likely to give the ring.~
+@1051 = ~(Seeing you are hesitant he continues to say). I can give you a discount. As long as you will pay me 600 gold coins I promise to train you and when you find Amily I will even give you some magic items.~
+@1052 = ~This sounds very promising thank you. Here is the gold you wanted.~
+@1053 = ~Please give me some time to consider. I will return to you when I make up my mind.~
+@1060 = ~(Receives the bag full of gold) Ok. You can come to me at any time I will train you in related skills we discussed.~
+@1061 = ~Let's start training now I want to train my \[Confabulation] skills.~
+@1062 = ~Let's start training now I want to train my \[Negotiating\] skills.~
+@1063 = ~I will come to you later when I want to train.~
+@1070 = ~Oh it¡¯s you. Is something I can do for you?~
+@1071 = ~I am willing to pay your fee to learn the skills of \[confabulation] and \[negotiation\].~
+@1072 = ~Nothing now. See you later.~
+@1100 = ~Oh hello is there anything I can do for you?~
+@1101 = ~I want to train the \[Confabulation\] skills.~
+@1102 = ~I want to train \[Negotiation\] skills.~
+@1103 = ~Nothing now I just wanted to say hello.~
+@1110 = ~How many hit points do you want to spend on \[Confabulation\] skill? Note that you cannot spend more hit points than your current level.~
+@1111 = ~I am going to spend 1 hit point\[Confabulation\] skill.~
+@1112 = ~I am going to spend 2 hit points\[Confabulation\]skill.~
+@1113 = ~I am going to spend 3 hit points\[Confabulation\]skill.~
+@1114 = ~I want to spend as much as hit points as possible on \[Confabulation\] skill.~
+@1115 = ~I don't want to train any skills now, I will come to you when I am ready.~
+@1120 = ~How many hit points do you want to spend on training \[Negotiation\] skill? Note that you cannot spend more hit points than your current level.~
+@1121 = ~I am going to spend 1 hit point on \[Negotiation\] skill.~
+@1122 = ~I am going to spend 2 hit points on \[Negotiation\] skill.~
+@1123 = ~I am going to spend 3 hit points\[Negotiation\] skill.~
+@1124 = ~I want to spend as much as hit points as possible on \[Negotiation\] skill.~
+@1125 = ~I don't want to train anything right now. I will come to you when I am ready.~
+@1150 = ~I can't to teach you anything new. I suggest you to go to the Baldur's Gate. Maybe you can find other teachers there and continue your "learning."~
+@1151 = ~Thank you I understand.~
+//Skill identification result
+@2000 = ~\[Success\]Okay...~
+@2001 = ~\[Failed\]Look at you. You don't have any money.~

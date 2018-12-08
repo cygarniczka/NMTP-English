@@ -1,0 +1,53 @@
+//Subtitles on the script
+@1 = ~Oh no. You know I have job to perform here yet.~
+@2 = ~Guards!~
+@3 = ~Go away.~
+@4 = ~We will meet again.~
+@65 = ~(Skills Identification...)~
+@66 = ~(Finishing Skills Identification)~
+//Task related
+////Subtitles on D files
+//Opening white
+@1000 = ~(In this spacious and well-decorated room you see a gentleman in a black suit. He is holding a book in his hand and reading it with gusto. 
+His attire is different from the other thieves in the guild. When you approached you see the cover of the book with "Sins and Punishments." written on it.)~
+@1001 = ~Who are you? What are you doing in the Thieves Guild headquarters? You don't look like everyone else here.~
+@1010 = ~(He pauses then slowly closes the book and turnes to look at you) Hello, <LADYLORD>. You don't seem to look like other people here either right? (He didn't even wait for you to respond). 
+I know your name <CHARNAME> well. As for me the people here are usually call me Mr. Ink. I am "the author" here if you catch my drift.~
+@1011 = ~"The author"?~
+@1012 = ~(He turns his head and looks at the door) Nobody told you? Um... (He bows his head and thinks subconsciously flipping the book and after a while he looks up.) Occasionally someone needs to be able to deal here with the law enforcer effectively and I am the one.~
+@1013 = ~So are you good at negotiating and dealing with paperwork? Can you teach me these skills I want to learn from you.~
+@1020 = ~(He raises his eyebrows) Oh? Your request surprised me a bit. Because so far people here have never asked me that but are more willing to rely on my ability. Well I don't think anybody here would mind me teach you some stuff.I can train you in three useful skills: confabulation, negotiation, and forging documents. But you have to pay me 2,000 gold coins as a tuition my student.~
+@1021 = ~I am willing to pay 2000 gold for my tuition.~
+@1024 = ~Please give me some time to reconsider. I will come back to you when I make up my mind.~
+@1060 = ~(He tells you to put the bag full of gold on the table.) Well you can come to me at any time. Of course it is best when I have time (laughing and pointing at the book) I will train you in skills we discussed.~
+@1061 = ~Let's start training now I want to train \[Confabulation] skills.~
+@1062 = ~Let's start training now I want to train \[Negotiation\] skills~
+@1063 = ~Let's start training now I want to train \[Forgery\] skills.~
+@1064 = ~Thank you I will come to you when I am ready to train.~
+@1070 = ~Oh it¡¯s you what's the matter?~
+@1071 = ~I am willing to pay to learn those skills.~
+@1072 = ~Nothing now goodbye.~
+@1100 = ~(Closes the book) It¡¯s you what's the matter?~
+@1101 = ~I want to train\[Confabulation\]skills.~
+@1102 = ~I want to train\[Negotiation\]skills.~
+@1103 = ~I want to train\[Forgery\]skills.~
+@1104 = ~Nothing just want to say hello.~
+@1110 = ~How many hit points do you want to spend on \[Confabulation\] skill? Note that you cannot spend more hit points than your current level.~
+@1111 = ~I am going to spend 1 hit point on \[Confabulation\] skill.~
+@1112 = ~I am going to spend 2 hit points on \[Confabulation\]skills.~
+@1113 = ~I am going to spend 3 hit points on \[Confabulation\]skills.~
+@1114 = ~I want to spend as much as hit points as possible on \[Confabulation\] skills.~
+@1115 = ~I don't want to train any skills now, I will come to you when I am ready.~
+@1120 = ~How many hit points do you want to spend on training \[Negotiation\] skill? Note that you cannot spend more hit points than your current level.~
+@1121 = ~I am going to spend 1 hit point on \[Negotiation\] skill.~
+@1122 = ~I am going to spend 2 hit points on \[Negotiation\] skills.~
+@1123 = ~I am going to spend 3 hit points on\[Negotiation\] skills.~
+@1124 = ~I want to spend as much as hit points as possible on \[Negotiation\] skill.~
+@1125 = ~I don't want to train any skills now, I will come to you when I am ready.~
+@1130 = ~How many hit points do you want to spend on training \[Forgery\] skill? Remember that you cannot spend more hit points than your current level.~
+@1131 = ~I am going to spend 1 hit point on \[Forgery\]skill.~
+@1132 = ~I am going to spend 2 hit point on \[Forgery\]skills.~
+@1133 = ~I am going to spend 3 hit point on \[Forgery\]skills.~
+@1134 = ~I want to spend as much as hit points as possible on [Forgery\]skills.~
+@1135 = ~I don't want to train any skills now, I will come to you when I am ready.~
+//Skill identification result

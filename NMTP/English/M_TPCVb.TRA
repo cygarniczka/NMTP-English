@@ -1,0 +1,14 @@
+@65 = ~(Skills Identification...)~
+@66 = ~(Finishing Skills Identification).~
+@101 = ~(Finished Cooking).~
+//BARD
+@200 = ~(You successfully cooked delicious dish).~
+//failure
+@300 = ~(You failed to mix right ingredients and screwed things up).~
+////
+@1000 = ~You decide not to cook anything.~
+@1001 = ~Which dish are you going to cook and according to which recipe?~
+@1002 = ~You are going to try to make a Belladonna Cake according to "Tessier's recipes and notes" (requires 1 copy of belladonna and 20 gold coins).~
+@1003 = ~You are going to try to make a Delta Dil's Vegetable Surprise (requires 20 gold coins) according to "Tessier's recipes and notes".~
+@1004 = ~You are going to try to make a Delicious and Convenient Noodle (requires 5 gold coins) according to "Tessier's recipes and notes".~
+@1005 = ~You are going to try to make a Half-Orc Style Wild Boar Dish (requires 30 gold coins) according to Orcish Cookbook.~

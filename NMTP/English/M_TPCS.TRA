@@ -1,0 +1,81 @@
+//civilian
+//High reputation
+//C G 10
+@1 = ~I... I seem to have seen that face before. In the newly published book's illustration. <PRO_HESHE> is rumored to be child of Bhaal... One of the gods that walked the Faeren? Impossible simply impossible.~
+@2 = ~Hero of Nashkel? I did not expect to see such a great hero with my own eyes! But why <PRO_HESHE> is on the tried in the court for theft?~
+//ELF
+@4 = ~<CHARNAME>? Is this hero who saved Suldanessellar's tree of life? The accusation is about theft? What a farce!~
+@5 = ~I've heard from one of my elf friend that <PRO_HESHE> did this despicable thing? It doesn't make sense!~
+//Shadow thief
+@7 = ~I've heard this hero put an end to the guilds war. It's hard to believe what is going on here.~
+@8 = ~<CHARNAME> is more dangerous than backstabbing dagger. But how come? They are well-known heroes after all.~
+//Trademeet
+@10 = ~I know <CHARNAME> who is the hero of Trademeet. How can they do such thing?~
+@11 = ~Objection! Release the hero of Trademeet!~
+//slave
+@13 = ~People say they put the end to organization who sold the slaves. Who would believe they would steal?~
+@14 = ~<CHARNAME> is embodiment of justice. How can they do this kind of thing? This is farce!~
+//circus
+@16= ~<CHARNAME> is the hero who dispelled the illusion at the circus at Waukeen Promenade. Release them!~
+@17= ~Is they who remove the illusion put by vicious dwarf at the circus? This court must be corrupted if they want to frame them...~
+//Iron Throne
+@19= ~<CHARNAME> is in conspiracy to destroy the Iron Throne and defeat our hero Sarevok!~
+@20= ~Aren't they the group who saved the Sword Coast from the iron shortage crisis?~
+//robber
+@22= ~There are the heroes who drove away bandits from the Sword Coast.~
+@23= ~I know <PRO_HESHE> is driving bandits away from my land. How can they do anything wrong?~
+//Nashkel
+@25= ~I recognize them they are the heroes of Nashkel Mines!~
+@26= ~Put an end to this meaningless trial and release <CHARNAME> the hero of Nashkel!~
+//Anonymous
+@28= ~They are that famous band of adventurers~
+@29= ~Who knows? I just only heard they're famous.~
+//Neutral reputation
+//C G 10
+@31= ~<PRO_HESHE> is rumored to be a child of Bhaal?~
+@32= ~How can child of Bhaal be prosecuted for theft?~
+//
+@34= ~Are they who saved Suldanessellar's tree of life?~
+@35= ~Elf friend told me that <CHARNAME> defeated powerful Mag and saved tree of life?~
+//
+@37= ~I have heard <PRO_HESHE> put end to guild war in Athkatla.~
+@38= ~They are more dangerous than backstabbing dagger but I did not expect them to be on trial for theft.~
+//
+@40= ~I heard <CHARNAME> is the hero of Trademeet. But how come they are on trial for stealing?~
+@41= ~Is this group guilty of theft? I heard <CHARNAME> saved the Trademeet from crisis. Are these charges brought against them false?~
+//
+@43= ~I heard they freed the slaves. The new owner of the Copper Coronet can vouch for them.~
+@44= ~I've seen them at Copper Coronet Inn before. People say they freed all slaves?~
+@46= ~Aren't they the ones who solved the Circus Crisis?~
+@47= ~They dispelled the illusion from the Cricus but they let that poor gnome to die.~
+@49= ~Aren't they who defeated Sarevok?~
+@50= ~I've heard <CHARNAME> saved the Grand Duke of Baldur's Gate?~
+@52= ~Aren't they mercenaries who drove away bandits from the Sword Coast?~
+@53= ~I've heard that Volo said stories about them at Belching Dragon Tavern...~
+@55= ~Aren't they the mercenaries who solved crisis of the Nashkel Mines?~
+@56= ~I heard that they defeated entire kobold army that flooded the mine.~
+@58= ~They are adventurers right?~
+@59= ~Adventurers? Anybody knows them? I don't~
+//Low reputation
+@61= ~I recognize that face! <PRO_HESHE> is a child of Bhaal! Damn you people are you all crazy? Whoever dares to inflict judgment on the evil child of Bhaal shall perish!~
+@62= ~Child of Bhaal!? <PRO_HESHE> is watching me! I will be sure to get killed first! That's it I leave.~  
+@64= ~I heard that perverted mage attempted to drain Suldanessellar's tree of life only because <CHARNAME>'s power allowed it him to do so. Not even a black dragon and entire army of drows are as much horrible as <CHARNAME> is...~
+@65= ~My elf friends told me they used to fear and hate Irenicus for what he did. But when <CHARNAME> came to defeat him they even began to sympathize with the poor mage.~
+@67= ~Just relying on <CHARNAME> to solve guild war disputes was a such horrible idea.~
+@68= ~The poets whisper that <CHARNAME> is sharper than death itself. I really hope that this accusation will not cause any more deaths or injuries.~
+@70= ~I have heard <CHARNAME> saved the Trademeet. But there isn't much more to say than just that.~
+@71= ~I heard Trademeet built statues to commemorate them for deeds. I want to do the same and see how effective they would be as a warning for hostile intruders...~
+@73= ~Didn't <PRO_HESHE> kill Lehtinan and Copper Coronet guards? What a terrible deed to carry out.~
+@74= ~Is <PRO_HESHE> who put this barbarian Hendak as a new owner of Copper Corenet?~
+@76= ~<PRO_HESHE> is responsible for death of that poor circus gnome...~
+@77= ~Poor Carla... He just wanted to be respected by others but now he is dead.~
+@79= ~Even the terrible Sarevok wass not as bad as them...~
+@80= ~They swept across entire Sword Coast killing how many people? <PRO_HESHE> is now tried in court for theft? Irony indeed.~
+@82= ~All the rogues of the Sword Coast aren't their enemies can they be tried for that even if found guilty on other charges?~
+@83= ~<PRO_HESHE> is way more evil that all the bandits of the Sword Coast combined!~
+@85= ~They are demons! Although they saved the Nashkel mining area they took far way more!~
+@86= ~Court punish these immediately villains!~
+@88= ~They are ordinary group of villains~
+@89= ~No need to waste more time on this trial! They are guilty for sure!~
+////subtitle
+@1000= ~Help! Please don't kill me!~

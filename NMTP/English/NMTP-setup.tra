@@ -1,0 +1,895 @@
+@1 = ~Coins materialized~
+@2 = ~NM-Relationship: Relationship System V2.8 Core Plug-In~
+@6 = ~Nonweapon proficiencies core plug-in system v2.1~
+@7 = ~Sword Coast jurisdiction~
+@8 = ~Performance~
+@9 = ~Cooking~
+@98 = ~Skipping this component the installation requirements are not met~
+@99 = ~Skipping this component similar component have been installed by other mod~
+@100 = ~Coin Purse~
+@101 = ~This small coin purse can contain up to 50 gold coins. 
+Weight£º 1~
+@102 = ~Regular Coin Bag~
+@103 = ~This bag can contain up to 500 gold pieces. It's a great asset for anyone.
+Weight£º 10~
+@104 = ~Big Coin Bag~
+@105 = ~This bag contains 5000 gold pieces a true king's ransom money. Most people can't even dream about having that much.
+Weight£º 100~
+@106 = ~Sort~
+@107 = ~Take out 50 gold coins~
+@108 = ~Take out 500 gold coins~
+@109 = ~Take out 5000 gold coins~
+@110 = ~Cancel~
+@111 = ~A lot of gold collected. Sort the gold?~
+//Sword Coast jurisdiction
+@200 = ~Witness Testimony~
+@201 = ~This document describes the incident in which <CHARNAME> committed theft. Along with signatures of the other witnesses the letter seems to be crucial for establishment of <CHARNAME>'s guilt.~
+@210 = ~Witness~
+@220 = ~Flaming Fist Enforcer~
+@300 = ~Amn's Local Prison~
+@301 = ~Flaming Fist's Local Prison~
+@400 = ~Amn's local prison bail book~
+//Performance
+@410 = ~Performance~
+@411 = ~Street Performance~
+//Cooking
+@420 = ~Kitchen storage~
+@421 = ~Old Tom's storage~
+//Component accessory
+//RING
+@1000 = ~Silver ring~
+@1001 = ~Ring of Summoning White Snake~
+@1002 = ~This silver-carved ring is very slender and has a image of a white snake carved in.~
+@1003 = ~Ring of the White Snake: Orpheus
+The true history of this ring can nowhere be verified. According to legend a snake-loving enchanter made a commemoration to his dead friend - a white snake named Orpheus. After the death of the unnamed mage the silver ring changed its owner frequently and was reported to be seen all around the Faerun. This ring allows the wearer to be  immune to poison and enhance the wearer's charm.
+
+Equipment Bonuses:
+Charisma +2
+Poison Immunity
+Special Abilities:
+This item can be given to anyone. It becomes bound with the target restores and hidden attributes. If the target is female it will increase the relationship value by 2 points.~
+@1004 = ~Ring of the White Snake: Orpheus
+The true history of this ring can nowhere be verified. According to legend a snake-loving enchanter made a commemoration to his dead friend - a white snake named Orpheus. After the death of the unnamed mage the silver ring changed its owner frequently and was reported to be seen all around the Faerun. This ring allows the wearer to be  immune to poison and enhance the wearer's charm.
+This ring has also additional ability to summon White Snake who has his own unique personality.
+
+Equipment Bonuses:
+Charisma +2
+Poison Immunity
+Special Abilities:
+Every day the ring summons White Snake named Orpheus for a total of 1 minute. The White Snake has a total of 10 hit points. One hit point will be reduces from it total each round. When the total hit points reach zero the Snake will automatically unsummon back to the ring.~
+@1005 = ~Give this item someone else~
+@1006 = ~Summon Orpheus the White Snake~
+@1007 = ~Ring of the White Snake: Orpheus
+The true history of this ring can nowhere be verified. According to legend a snake-loving enchanter made a commemoration to his dead friend - a white snake named Orpheus. After the death of the unnamed mage the silver ring changed its owner frequently and was reported to be seen all around the Faerun. This ring allows the wearer to be  immune to poison and enhance the wearer's charm.
+This ring was severely damaged. It lost some of its abilities.
+
+Equipment Bonuses:
+Poison Immunity~
+@1008 = ~Change Ring into Master Key~
+@1009 = ~Summon Orpheus the White Snake~
+@1010 = ~Orpheus~
+@1011 = ~Ring of the White Snake: Orpheus
+The true history of this ring can nowhere be verified. According to legend a snake-loving enchanter made a commemoration to his dead friend - a white snake named Orpheus. After the death of the unnamed mage the silver ring changed its owner frequently and was reported to be seen all around the Faerun. This ring allows the wearer to be  immune to poison and enhance the wearer's charm.
+This ring has also additional ability to summon White Snake who has his own unique personality.
+You can also change the ring into Master Key which will help you open the locks.
+
+Equipment Bonuses:
+Charisma +2
+Poison Immunity
++50% to Open Locks
+Special Abilities:
+Every day the ring summons White Snake named Orpheus for a total of 1 minute. The White Snake has a total of 10 hit points. One hit point will be reduces from it total each round. When the total hit points reach zero the Snake will automatically unsummon back to the ring.~
+//BAG
+@1100 = ~Gem Bag~
+@1101 = ~Bag of Pranks~
+@1102 = ~This small bag is ideally suited for holding gems, gold coins and all sort of jewelry.~
+@1103 = ~Bag of Pranks - Other's people valuables
+Some people claim a mage created this bag when Orcs invaded his lands. He specifically gave the bag as gift for the Orc people. 
+Many people consider this Bag of Pranks to be cursed and some even say it can trap anyone with Imprisonment Spell. It is said Bag of Pranks goal is to find and rob next greedy owner. Some rumors concerning this item are even more absurd than listed here.
+Regardless how the Bag came to be it was found last time near the Baldur's Gate not too long ago. The bag will find likely rich target. The elegant hand will hand over this bag to unsuspecting new owner. 
+Gentle voice will say "is this coin purse yours?". Once the victim accepts the bag thinking it dropped from the sky the Bag of Pranks renders the target unconscious. Victim drops gold coins, rings, amulets and jewelry
+and then Bag of Pranks collect them all only to move on in order to rob yet another greedy person.
+This incidents is widely rumored across all Baldur's Gate. Everyone is weary of the strangers. Many more people still continued to fall as a prey to the Bag of Prank. Until one day anonymous person managed to caught Bag of Pranks. The whole incident came to an end.
+
+Special Abilities:
+This item can be given to any neutral NPC. The player will gain 5 points of skill identification and edge over the target \[Confabulation] skills. After the player's skill is successfully identified the target will accept the item. The relationship will go up by 2 points. After 1 round the player will get all the necklaces, rings, gems, gold coins and jewel bags in his inventory.
+Unusable By:
+Paladin~
+@1104 = ~Give this item someone else~
+@1105 = ~Target~
+//HELM
+@1200 = ~Headwear~
+@1201 = ~Rakshasa Demon's Headdress~
+@1202 = ~This beautiful headdress has a shining amethyst.~
+@1203 = ~Tiara Demon's Headdress - The eyes of the seduction
+This exquisite headdress hides evil magic and is one of the accessories that Rakshasa likes to wear. It increases the wearer's appeal and persuasiveness and makes it easier for the wearer's lies to confuse the others.
+
+STATISTICS:
+Weight: 2
+
+Equipment Bonuses:
+Charisma +1
+Bonus to \[Confabulation\] skill for all party members :+2
+Bonus to \[Negotiation\] skill for all party member: +1
+Unusable By:
+Paladin~
+//scroll
+@1300 = ~Performance Master Guide Book~
+@1301 = ~The title of the book strays far away from its content. It can only be regarded as a general performance guide including some basic performance methods, skill training, and some cheap tricks to make easy money. The descriptions are concise and short. This book is very helpful for those who are new to the performance.
+
+STATISTICS:
+Weight: 2
+ 
+Get \[Performance\] skill.
+Special Abilities: This book disappears after the use.
+Only Usable By:
+Bard
+Thief
+Monk~
+@1302 = ~The Sword Coast Ballad Collection~
+@1303 = ~These pages contain collection of various songs from all over the Sword Coast.
+
+STATISTICS:
+Weight: 2
+
+Uses the skill: \[Performance\]- a skill to make money 
+\[Performance\] Skill Value: 0
+Special Abilities: Players can rely on the performance script for up to 3 times a day.
+Only Usable By:
+Bard
+Thief
+Monk~
+@1304 = ~Nashkel Carnival Collection~
+@1305 = ~This book contains some of the performance scripts and chronicles performances of the Nashkel Carnival in the past years. It is a souvenir often bought by performance spectators at the Nashkel Carnival.
+
+STATISTICS:
+Weight: 2
+ 
+Uses the skill: \[Performance\]- a skill to make money  
+\[Performance\] Skill Value: 0£¬2£¬4
+Special Abilities: Players can rely on the performance script for up to 3 times a day.
+Only Usable By:
+Bard
+Thief
+Monk~
+@1306 = ~Grand Duke's Drama Collection~
+@1307 = ~This book contains a collection of scripts of various performances that have been played for Grand Dukes of the Baldur's Gate.
+
+STATISTICS:
+Weight: 2
+ 
+Uses the skill: \[Performance\]- a skill to make money  
+\[Performance\] Skill Value: 4£¬6£¬8
+Special Abilities: Players can rely on the performance script for up to 3 times a day.
+Only Usable By:
+Bard
+Thief
+Monk~
+@1308 = ~Copper Cornet Song Collection~
+@1309 = ~The book's in bad condition the side binding are loose. It contains some of Bards impromptu works played at Copper Crown Inn. You quickly found that there are some old songs written down.
+
+STATISTICS:
+Weight: 2
+ 
+Uses the skill: \[Performance\]- a skill to make money  
+\[Performance\] Skill Value: 0£¬2£¬8
+Special Abilities: Players can rely on the performance script for up to 3 times a day.
+Only Usable By:
+Bard
+Thief
+Monk~
+//OTHER
+@1310 = ~Harp~
+@1311 = ~Improved Harp~
+@1312 = ~The harp is a string instrument that Bard often uses. This little harp is suitable for use by any traveling Bard.~
+@1313 = ~This harp is beautifully crafted with silver strings set in gold-plated wooden frames. Such a beautiful and perfect instrument even if it seems simple it can play a beautiful melody.
+
+STATISTICS:
+Weight: 3
+
+Equipment Bonuses:
+\[Performance\] Skill Bonus +2
+Only Usable By:
+Bard~
+@1314 = ~Kitchenware~
+@1315 = ~Exquisite Kitchenware~
+@1316 = ~Kitchenware is bread and wine of any chef. Good quality kitchenware can be very helpful for delicious cooking results.~
+@1317 = ~This set of kitchenware is made of fine metal. Excellent thermal conductivity, balanced feel use it for cooking. Even novices will be full of confidence when preparing meals.
+
+STATISTICS:
+Weight: 5
+
+Equipment Bonuses:
+\[Cooking\] Skill Bonus +2~
+
+//INGREDIANT
+@1400 = ~Rat meat~
+@1401 = ~Edible parts of the rat.
+
+STATISTICS:
+Low Grade Ingredient
+Weight: 1
+
+Uses the skill: \[Cooking\]~
+@1402 = ~Bear meat~
+@1403 = ~Bear meat is a rare ingredient that contains a lot of crude protein and crude fat which can make up for the lost energy and strengthen the bones.
+
+STATISTICS:
+Medium Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1404 = ~Bear Paws~
+@1405 = ~The bear's paw is a high-grade ingredients. It has the effect of removing pains and strengthening the spleen and stomach. 
+
+STATISTICS:
+High Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1406 = ~Dog meat~
+@1407 = ~The dog meat is full of aroma. Eating dog meat can restore constitution, improve digestion, and promote blood circulation.
+
+STATISTICS:
+Low Grade Ingredient
+Weight: 2
+
+Uses the skill: \[Cooking\]~
+@1408 = ~Wolf Meat~
+@1409 = ~The wolf meat is slightly salty. Prepared wolf meat can nourish anyone well.
+
+STATISTICS:
+Medium Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+//
+@1410 = ~Tiger Bones~
+@1411 = ~Tiger bone is one of the most precious and rare animal foods. It is said to promote longevity, improve blood circulation, and strengthen the bone structure.
+
+STATISTICS:
+High Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1412 = ~Leopard bones~
+@1413 = ~Leopard bones can be prepared into soup which strengthens muscles and bones.
+
+STATISTICS:
+High Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1414 = ~Venison~
+@1415 = ~Venison is a high-grade delicate meat with few connective tissue. It can be used for a variety of dishes. 
+
+STATISTICS:
+High Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1416 = ~Antlers~
+@1417 = ~Antler are one of the precious and rare animal foods. It restore effectively weakened body and cures neurasthenia.
+
+STATISTICS:
+High Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1418 = ~Rabbit meat~
+@1419 = ~Rabbit meat has a delicate texture, delicious taste, rich nutrition, high protein content and easy to be digested and absorbed.
+
+STATISTICS:
+Low Grade Ingredient
+Weight: 1
+
+Uses the skill: \[Cooking\]~
+//
+@1420 = ~Beef~
+@1421 = ~Beef is one of the most important daily foods for the Sword Coast inhabitants. It has high protein content and low fat content. It tastes deliciously.
+
+STATISTICS:
+Medium Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1422 = ~Wyvern~
+@1423 = ~Few people eat Wyvern meat because it contains toxins and requires special treatment before becoming edible. 
+
+STATISTICS:
+Medium Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1424 = ~Spider remains~
+@1425 = ~Few people eat spiders but after proper preparing spiders taste similar to crabs. 
+
+STATISTICS:
+Medium Grade Ingredient
+Weight: 10
+
+Uses the skill: \[Cooking\]~
+@1426 = ~Dragon meat~
+@1427 = ~Dragon meat is the food every connoisseur dreams of. But it is well known that killing a dragon is basically an impossible task which puts suspicion on the taste of dragon meat to what legends say.
+
+STATISTICS:
+High Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1428 = ~Carp~
+@1429 = ~Rich in protein of good quality and delicious. Carb is common freshwater fish served on in the taverns. 
+
+STATISTICS:
+Low Grade Ingredient
+Weight: 1
+
+Uses the skill: \[Cooking\]~
+//
+@1430 = ~Tuna~
+@1431 = ~Tuna meat is low in fat, low in calories, and has high quality protein and other nutrients. It is a favorite marine fish.
+
+STATISTICS:
+Medium Grade Ingredient
+Weight: 1
+
+Uses the skill: \[Cooking\]~
+@1432 = ~Snake meat~
+@1433 = ~The snake meat is tender and delicious. It has the effect of promoting blood circulation, reducing swelling and relieving pain, detoxifying and cleansing the skin.
+
+STATISTICS:
+Medium Grade Ingredient
+Weight: 5
+
+Uses the skill: \[Cooking\]~
+@1434 = ~Chicken~
+@1435 = ~Chickens are flightless, domesticated birds valued not only for their tender meat but also for their eggs, a daily morning delicacy in many farm and cities throughout the Sword Coast region.
+
+STATISTICS:
+Low Grade Ingredient
+Weight: 2
+
+Uses the skill: \[Cooking\]~
+////FOOD
+@1440 = ~Roasted pork~
+@1441 = ~A fresh fragrant roasted pork.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 4 Hunger Points
+Restores Fatigue 10%~
+@1442 = ~Roasted bear meat~
+@1443 = ~Juicy bear meat cooked tender over the fired
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%
+Restores morale
+Saving vs. Breath + 1 for 6 hours~
+@1444 = ~Honey Bear Chops.~
+@1445 = ~Marinated bear ribs in honey cooked over long period of time. It melts in your mouth is soft and chewy as well.
+
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%
+Restores morale
+Saving vs. Breath + 1 for 6 hours
+Bonus to Luck + 1 for 6 hours~
+@1446 = ~Braised Bear's Paw~
+@1447 = ~Cooked in a special technique to prepare soften the paws then fried over the fire in saucepan.
+
+STATISTICS:
+Weight: 5
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 30%
+Restores morale
+Saving vs. Breath + 2 for 6 hours
+Cold resistance: +20% for 6 hours
+Bonus to Luck + 2 for 6 hours~
+@1448 = ~Roasted Dog Meat~
+@1449 = ~Spicy grilled dog meat very nourishing food in winter¡£
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%
+Saving vs. Death + 1 for 6 hours
+Cold resistance: +5% for 6 hours~
+////
+@1450 = ~Dog Meat Dish~
+@1451 = ~Dog meat wrapped in sweet sauce oil and peppercorn with salt and pepper. This is a dish that many people eat together at the family table.
+
+STATISTICS:
+Weight: 6
+
+Special Abilities:
+Restores 8 Hunger Points
+Restores Fatigue 20%
+Saving vs. Death + 2 for 8 hours
+Cold resistance: +10% for 8 hours
+Bonus to Luck + 1 for 8 hours~
+@1452 = ~Wolf Meat~
+@1453 = ~Simple wolf meat dish with a pure aroma of its meat.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores morale
+Saving vs. Breath +1 for 6 hours~
+@1454 = ~Charcoal Grilled Wolf~
+@1455 = ~Wrapped wolf platters with lightly hot butter and seasonings carefully baked.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%
+Restores morale
+Saving vs. Breath + 2 for 6 hours 
+Bonus to Luck + 1 for 6 hours~
+@1456 = ~Tiger Bone Soup~
+@1457 = ~It combines all kinds of herbs with fresh tiger bone in casserole sauce soup. This is a dish that many people eat together at the family table.
+
+STATISTICS:
+Weight: 6
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores 4 Thirst Points
+Restores Fatigue 30%
+Restores morale
+Constitution + 1 for 6 hours
+Saving vs. Death + 2 for 6 hours
+Saving vs. Polymorph + 2 for 6 hours 
+Saving vs. Breath + 2 for 6 hours
+Bonus to Luck + 2 for 6 hours~
+@1458 = ~Leopard Bone Soup~
+@1459 = ~A soup made out of fresh leopard bones. This is a dish that many people eat together at the family table.
+
+STATISTICS:
+Weight: 6
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores 4 Thirst Points
+Restores Fatigue 20%
+Restores morale
+Dexterity + 1 for 6 hours
+Saving vs. Death + 1 for 6 hours
+Saving vs. Polymorph + 1 for 6 hours
+Saving vs. Breath + 1 for 6 hours
+Bonus to Luck + 1 for 6 hours~
+//
+@1460 = ~Roasted Venison~
+@1461 = ~Roasted seasoned venison.  
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%
+Saving vs. Polymorph + 1 for 6 hours~
+@1462 = ~Lilac Venison~
+@1463 = ~Wrapped deer leg meat in seasoning on covered in soup and steamed over long period of time.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 30%
+Saving vs. Polymorph + 2 for 6 hours
+Bonus to Luck + 1 for 6 hours~
+@1464 = ~Bazhen velvet soup~
+@1465 = ~Sliced antler with herbs and broth cooked over low heat. This is a dish that many people eat together at the family table.
+
+STATISTICS:
+Weight: 6
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores 4 Thirst Points
+Restores Fatigue 30%
+Wisdom + 1 for 6 hours
+Restores morale
+Cures disease
+Saving vs. Polymorph + 2 for 6 hours
+Bonus to Luck + 2 for 6 hours~
+@1466 = ~Roasted Rabbit Meat~
+@1467 = ~Roasted the rabbit meat with salt.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%~
+@1468 = ~Rabbit Meat Dish~
+@1469 = ~Cut rabbit meat into thin slices boiled in hot oil with seasonings and chicken broth. Cooked over slight fire with cooked sesame.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 30%
+Bonus to Luck + 1 for 6 hours~
+@1470 = ~Roasted Beef~
+@1471 = ~Baked piece of beef wrapped in seasoning. Smear it with melted cheese when you eat.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%~
+@1472 = ~Royal Steak~
+@1473 = ~Classic steak dish baked in strict process. Common on formal dining tables.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 30%
+Bonus to Luck + 2 for 6 hours~
+@1474 = ~Wyvern~
+@1475 = ~By continuously distilling a special process is used to remove the toxins from the Wyvern's flesh and preserve its fleshy taste and characteristics.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%
+Restores morale
+Slows Down Poison
+Saving vs. Death + 1 for 6 hours
+Saving vs. Breath + 1 for 6 hours
+Bonus to Luck + 1 for 6 hours~
+@1476 = ~Roasted Spider~
+@1477 = ~Carefully removed spider's poisonous sacs and hair and cooked over light fire to retain its delicate flavor. 
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 4 Hunger Points
+Restores Fatigue 20%
+Slows Down Poison
+Saving vs. Death + 1 for 4 hours
+Bonus to Luck + 1 for 4 hours~
+@1478 = ~Refined Dragon Roast~
+@1479 = ~As a legendary ingredient the dragon meat has a unique flavor even if it is simply smeared with seasonings.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 30%
+Restores morale
+Bonus to all Saving Throws +1 for 6 hours~
+@1480 = ~Secret Dragon Meat Dish~
+@1481 = ~With a meticulous and creative cooking steps. This dragon dish faces up to the legendary taste and retains all its essence.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 40%
+Strength + 1 for 6 hours
+Restores morale
+Bonus to all Saving Throws + 2 for 6 hours
+Bonus to Luck + 2 for 6 hours~
+@1482 = ~Grilled Fish~
+@1483 = ~Covered with seasoning and salt and fried over.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%~
+@1484 = ~Sweet-Sour Carp~
+@1485 = ~The sweet and sour sauce on the hot-fried fish.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%
+Bonus to Luck + 1 for 6 hours~
+@1486 = ~Salted Fish~
+@1487 = ~Salted dried fish.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%~
+@1488 = ~Licorice Cheese Fish~
+@1489 = ~Fish belly with cheese and ham wrapped in licorice inside the bread sandwich  slowly fried.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%
+Bonus to Luck + 1 for 6 hours~
+@1490 = ~Grilled Snake Meat~
+@1491 = ~Wrapped chopped snake meat in seasoning fried over medium fire.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 4 Hunger Points
+Restores Fatigue 10%
+Saving vs. Death + 1 for 4 hours~
+@1492 = ~Salt and Pepper Snake~
+@1493 = ~Snake meat covered in seasoning salted and peppered fried over the fire.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%
+Saving vs. Death + 2 for 6 hours
+Bonus to Luck + 1 for 6 hours~
+@1494 = ~Roasted Chicken~
+@1495 = ~Covered chicken with soy source and spices and fired over the fire.
+
+STATISTICS:
+Weight: 2
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%~
+@1496 = ~Crispy Roasted Chicken~
+@1497 = ~Soaked chicken in cheese and butter, baked with a light fire with gravy on top.
+
+STATISTICS:
+Weight: 2
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 30%
+Bonus to Luck + 1 for 6 hours~
+////Fine barbecue
+@1500 = ~Refined Roasted Pork~
+@1501 = ~A fresh fragrant roasted pork.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 4 Hunger Points
+Restores Fatigue 10%
+Bonus to Luck + 1 for 4  hours~
+@1502 = ~Refined Roasted Bear Meat~
+@1503 = ~Cooked juicy and tender bear meat then fried directly over the fire.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%
+Restores morale
+Saving vs. Breath + 1 for 6 hours
+Bonus to Luck + 1 for 6 hours~
+@1504 = ~Refined Grilled Dog Meat~
+@1505 = ~Spicy roasted dog meat. It's nourishing food in the winter.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%
+Saving vs. Death + 1 for 6 hours
+Cold resistance: +5% for 6 hours
+Bonus to Luck + 1 for 6 hours~
+////
+@1506 = ~Refined Grilled Wolf Meat~
+@1507 = ~Simple wolf meat dish with a pure aroma of food.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores morale
+Saving vs. Breath + 1 for 6 hours
+Bonus to Luck + 1 for 6 hours~
+@1508 = ~Refined Roasted Venison~
+@1509 = ~Seasoned venison baked with vegetables.  
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%
+Saving vs. Polymorph + 1 for 6 hours
+Bonus to Luck + 1 for 6 hours~
+@1510 = ~Refined Roasted Rabbit Meat~
+@1511 = ~Roasted salted rabbit meat.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%
+Bonus to Luck + 1 for 6 hours~
+@1512 = ~Refined Roasted Beef~
+@1513 = ~Baked piece of beef wrapped in seasoning until it is cooked. Cover it with melted cheese when you eat.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 20%
+Bonus to Luck + 1 for 6 hours~
+@1514 = ~Refined Dragon Roast~
+@1515 = ~As a legendary ingredient the dragon meat has a unique flavor even if it is simply smeared with seasonings.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 30%
+Restores morale
+Bonus to all Saving Throws + 1 for 6 hours~
+///////////////////////////////Food Recipe
+@1520 = ~Belladonna Cake~
+@1521 = ~You found the belladonna cake recipe after reading "Tessier's recipes and notes"... You are not sure if you should eat it.
+
+STATISTICS:
+Thac0: +2
+Damage: 0 (+2 to beasts)
+Type of Damage: Ranged (piercing)
+Special Ability: After a target have been hit it needs to make saving throw vs. death or suffer poison damage of 6 points per 1 round
+Weight: 1
+Launcher: Crossbow
+
+
+Ability 1:
+Swallow whole cake
+Restores 1 Hunger Points
+Restores Fatigue 10%
+Saving Throws Bonus +2 vs. beasts 
+Bonus to Luck + 1 for 1 hours
+
+Ability 2:
+Chew the cake
+After you put the cake in your mouth unstoppable force make you spit the food piece by piece. The target being hit receives 6D10 poison damage unless makes saving throw vs. breath -4 which halves the damage.~
+@1522 = ~De Ladir's Vegetable Surprise~
+@1523 = ~You find this vegetable soup by going through Dessier's Daddier recipes and notes. This 300 years old recipe allows you to make nutritious and delicious soup. You find also that this soups is magically enchanted and every time you eat it you will cast Dispel Magic spell.
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores 4 Thirst Points
+Restores Fatigue 10%
+Cast Dispel Magic after use
+Bonus to Luck + 1 for 6 hours~
+@1524 = ~Convenient Magical Noodles~
+@1525 = ~It's really convenient to refer to noodles recipes found in Dessier's recipes and notes. However you find that this simple noodles are magical so that the person who eats them becomes temporarily an Iron Golem... This seems to be a crazy attempt by Dessier to eat pots.
+
+
+STATISTICS:
+Weight: 1
+
+Special Abilities:
+Restores 6 Hunger Points
+Restores Fatigue 10%
+Turns user into Iron Golem. Effect lasts for 1 round.~
+////
+@1526 = ~Half-Orc Style Wild Boar Dish~
+@1527 = ~You refer to Orchish Cookbook to make this dish. It obviously smells horrible. This is a dish that many orc people eat together at the family table.
+
+STATISTICS:
+Weight: 6
+
+Special Abilities:
+Restores 8 Hunger Points
+Restores Fatigue 10%
+Restores morale
+Saving vs. Breath +2 for 6 hours~
+//recipe
+//CLOAK
+//SPL
+@2000 = ~Learning performance skills~
+@2001 = ~Performance~
+@2002 = ~Confabulation~
+@2003 = ~Negotiation~
+@2004 = ~Forgery~
+@2005 = ~Intimidation~
+@2006 = ~Performance~
+@2007 = ~Observation~
+@2008 = ~Cooking~
+@2009 = ~Turn Into Iron Golem~
+//CRE
+//Sword Coast jurisdictionCRE
+@3000 = ~Akin~
+@3001 = ~Mr. Ink~
+@3002 = ~Single-Eyed Owlet~
+//PerformanceICRE
+@3010 = ~Street Performer~
+@3011 = ~Vassons~
+@3012 = ~Acting Teacher~
+//CookingCRE
+@3020 = ~Head Chef~
+@3021 = ~Old Tom~
+//V1.0
+@10020 = ~If you have any legal troubles you can always go to Akin. He's good at solving such problems.~
+@10021 = ~Useful skills for living
+You heard at one of the inns that man named Akin is an excellent orator.~
+////NMRCODE
+@80000 = ~Your death is almost here!~
+@80001 = ~Finally I have the chance to send you all the way to hell!~
+@80002 = ~I will not let my friends fight alone!~
+@80003 = ~Good luck my friend don't forget to come to me the next time you need help.~
+@80004 = ~You take care of your own fights I don't help anyone.~
+@80005 = ~Help!~
+@80006 = ~You dare to attack me?!~
+@80007 = ~Which side should I help?! This is so confusing...~
+@80008 = ~I really hoped that this wouldn't happen...~
+@80009 = ~(The relationship value is too low and your teammate leave your party).~
+@80100 = ~Friends I need your help.~
+@80101 = ~I will be happy to fight alongside you.~
+@80102 = ~Sorry I have other things to do and I can't help you.~
+@80103 = ~Hey you just hit me!~
+@80104 = ~Be careful where you strike!~
+@80105 = ~This will leave scars!~
+@80120 = ~Hey you hit me.~
+@90000 = ~(Completely Hostile)~
+@90001 = ~(Almost Hostile)~
+@90002 = ~(Close Relationship)~
+@90003 = ~(Neutral Relationship)~
+@90004 = ~(Absolutely Neutral Relationship)~
+@90005 = ~(Neutral Friendly)~
+@90006 = ~£¨Intimate Relationship)~
+@90007 = ~(Close Friend)~
+@90008 = ~(Life or Death)~
+@90100 = ~I am very happy that I can help you.~
+@90150 = ~(Feels Unpleasant)~
+@90200 = ~(You have been unable to enhance your friendship through this means).~
+@90300 = ~(happy to recieve the gift from you)~
+@90400 = ~(You don't have the right gift).~
+@90500 = ~(Rubs against your legs).~
+@90600 = ~(Ignores Your Behavior)~
+@90700 = ~(Learned Some Experience From You)~
+@90800 = ~(You can't do anything about it)~
+@91000 = ~(Accepts The Gold You Gave)~
+@91100 = ~(Familiar ate the food happily and shook its tail).~
+@91200 = ~(It is not yet the time to feed familiar).~

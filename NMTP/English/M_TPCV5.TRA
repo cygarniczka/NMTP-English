@@ -1,0 +1,25 @@
+@65 = ~(Skills Identification...)~
+@66 = ~(Finishing Skills Identification).~
+@100 = ~(Begin the performance).~
+@101 = ~(Performance Climax).~
+@102 = ~(Finish the performance).~
+@103 = ~Your reputation increased by 1 point.~
+//BARD
+@200 = ~(You wonderful performance has won praises).~
+//failure
+@300 = ~(You failed to memorize the lyrics you forget some lines).~
+@499 = ~This is a terrible performance. Boo!~
+@500 = ~<HISHER> performance was alright.~
+@501 = ~<HISHER> performance is not that bad.~
+@502 = ~(Light applause).~
+@503 = ~Yes I still like it very much.~
+@504 = ~You put on great show!~
+@505 = ~(Applause).~
+@506 = ~Quiet let <HISHER> continue the performance.~
+@507 = ~This is great! I am glad I came here.~
+@508 = ~Awesome! This is the best show I have ever seen.~
+@509 = ~Unbelievable this is really good!~
+
+@1000 = ~You flipped through the "The Sword Coast Ballad Collection" which lists common songs and chose very popular song.~
+@1010 = ~\[Perform\] - You picked a popular song and prepared for a simple performance.~
+@1060 = ~Finish your performance.¡£~

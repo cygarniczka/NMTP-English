@@ -1,0 +1,195 @@
+//Subtitles on the script
+@0 = ~Hm.. strange.. Where could have they disappeared?~
+@1 = ~What are you thinking? You want to disrupt this trial. I will not allow it.~
+@2 = ~What are you doing? Guards get them!~
+@3 = ~(Because the judge suddenly lost his usual composure, the lawsuit failed.)~
+@4 = ~<CHARNAME> is my good friend... (mutters under the nose) <CHARNAME> is my good friend...~
+@10 = ~Silence!~
+@20 = ~I'm sorry no matter how much money I can get from you I can't jeopardize my position and career.~
+@21 = ~Bribery is an insult to me!~
+@65 = ~(Identifying skills)~
+@66 = ~(Finishing skill identification)~
+//Task related
+@100 = ~Flaming Fist Trial
+You were caught red-handed stealing. Local Flaming Fist soldiers were dispatched to apprehend you. 
+You have chosen a more moderate way to this predicament: accept the arrest and wait for the Trial.~
+@200 = ~Flaming Fist Trial
+You were awarded not guilty verdict during the Trial, but this incident carries impact on your reputation.
+You are free to go now.~
+@201 = ~Flaming Fist Trial
+The judge accepted the evidence you submitted and arrested the witness who had allegedly accused you.
+Now, you are free again, and thus your reputation improves because of proving one's innocence.~
+@202 = ~Flaming Fist Trial
+The judge accepted the letter you submitted and immediately released you.
+Now, you are free again.~
+@203 = ~Flaming Fist Trial
+As a result of the "accident", the witness suddenly lost the composure during the trial and could not accuse you. The judge acquitted you.
+Now, you are free again.~
+@204 = ~Flaming Fist Trial
+As a result of the "accident", the witness' evidence was lost and it was impossible to prove your guilt. The judge acquitted you.
+Now, you are free again.~
+@205 = ~Flaming Fist Trial
+You are acquitted and the witness who accused you is arrested by the judge.
+The accused person has been thrown into the prison, and you are safe and sound, those trials are really unpredictable...~
+@206 = ~Flaming Fist Trial
+You are acquitted and let your witnesses compensate you for your reputation damage.
+Now, you are free again.~
+@207 = ~Flaming Fist Trial
+You have been acquitted. Although you wanted to accuse the witness who previously accused you of wrongdoing, but you ultimately failed.
+However, at least you are now free.~
+@210 = ~Flaming Fist Trial
+The judge gave you a 3 day jail sentence.~
+@211 = ~Flaming Fist Trial
+The judge gave you a 10 day jail sentence.~
+@212 = ~Flaming Fist Trial
+The judge gave you a 30 day jail sentence.~
+@213 = ~Flaming Fist Trial
+Judge suddenly lost his normal composure, the case has not finished yet however...~
+@220 = ~Flaming Fist Trial
+For your sake, this court proceedings ended in violence...~
+@221 = ~Flaming Fist Trial
+The judge believed the evidence you submitted and arrested the witness who had allegedly accused you. He also presented you a strange ring as a reward.
+Now, you are free again, and thus your reputation improves because of proving one's innocence.~
+@222 = ~Flaming Fist Trial
+You have been acquitted and the witness compensated your reputation loss by giving you purple headgear
+Now, you are free again.~
+@223 = ~Flaming Fist Trial
+You have been acquitted. The intervention from the judge freed the witnesses from the consequences of false claim. As compensation the judge presented you with a strange ring.
+Now, you are free again.~
+@230 = ~Flaming Fist Trial
+You have chosen to escape which gives you temporary freedom thus making you notorious.
+Prepare yourself to face more troubles in a near future...~
+@231 = ~Flaming Fist Trial
+You stirred up big load of troubles in the court and escaped which granted you temporarily freedom. Your notoriety increases. 
+Prepare yourself to face more troubles in a near future...~
+////Subtitles on D files
+//Opening white
+//High reputation and high friendliness
+@1000 = ~<CHARNAME> I'd never thought we would meet in this way.~
+@1001 = ~You are well know hero even in Baldur's Gate they acknowledge your deeds. At the same time, you are my friend. I have no doubt about your moral character.~
+@1002 = ~However since you are accused of theft as a local Flaming Fist law enforcer I will handle everything impartially. So let us listen to the evidence to prove what you say...~
+//High reputation and friendship
+@1010 = ~<CHARNAME> are you kidding me and the rest of the gods? How could this be you?~
+@1011 = ~You are a well-known. Your heroic deeds are known all over the region. Although I don't know much about you I also don't believe you did this.~
+@1012 = ~However since you are accused of theft as a local Flaming Fist law enforcer I will handle everything impartially. So let us listen to the evidence to prove what you say...~
+//High reputation and low friendliness
+@1020 = ~<CHARNAME> you hypocrite you're finally show your true colors don't you?~
+@1021 = ~Although you are well-known in these parts I never liked you. I don't really expect this dog to get rid of thieving habits.~
+@1022 = ~You're ignorant of my existance as local law enforcer. However I will handle everything impartially. So let us hear those who testify and have something to say...~
+//High reputation
+@1030 = ~How could this be you friend?~
+@1031 = ~From what I understood. I believe you will not be accused okay?~
+@1032 = ~However as a local Flaming Fist law enforcer I will handle everything impartially. So let us hear those who testify and have something to say...~
+//Medium reputation
+@1040 = ~<CHARNAME> you stand of being accused of burglary.~
+@1041 = ~As a local Flaming Fist law enforcer I have the duty to decide whether the allegations against you are true and I will handle everything impartially.~
+@1042 = ~So first let us hear those who testify and have something to say...~
+//Low reputation
+@1050 = ~<CHARNAME> you stand of being accused of burglary.~
+@1051 = ~Although I am almost certain that you committed this despicable deed as the local law enforcer of Flaming Fist I will handle everything in accordance with the due process.~
+@1052 = ~So first let us hear those who testify and have something to say...~
+//Low reputation and high friendliness
+@1060 = ~<CHARNAME> is that you my friend?~
+@1061 = ~Regardless of how others view you I always believed in you. I hope you don't let me down...~
+@1062 = ~Anyway as a local Flaming Fist law enforcer I will handle everything impartially. Let us hear those who testify and have something to say.~
+//Low reputation
+@1070 = ~<CHARNAME> what have you done?~
+@1071 = ~Your reputation in this region is very poor but as a local Flaming Fist law enforcer I will handle everything impartially.~
+@1072 = ~So first let us hear those who testify and have something to say.~
+//Low reputation and low friendliness
+@1080 = ~<CHARNAME> I always wondered why you haven't been locked up yet.~
+@1081 = ~The evil runs through y'all. I really want to lock y'all for good and throw away a key into the well. However as a local law enforcer I will handle everything in accordance with the law.~
+@1082 = ~So first let us hear those who testify and have something to say.~
+////Debate begins
+@1100 = ~What do you have to say, hero of the Sword Coast?~
+@1101 = ~\[Confabulate\] - I am here because I believe in the justice of Flaming Fist law and respect the system here and yet I am listening to those absurd accusations brought against me. I understand that as an adventurer fame is a double-edged sword while others think that I will gladly throw away money to save me troubles. Maybe that would be a lot easier I can afford to buy dozens of estates in this regions. But I won't do this. Because justice and the reputation are far more important than this insignificant inconvenience caused by this trail. Very well let me listen to others falsely accusing me of theft.~
+@1102 = ~\[Negotiate\] - Just relying on this evidence alone to identify us as thieves? I thought that Flaming Fist law would be more rigorous.~
+@1103 = ~\[Use forged evidence\] - (Hand over the forged letter). The contents of the letter I found in the owner of this house belonging to so called witnesses standing before me implicate the witnesses to be spy sent by Zhentarims. In fact I was asked to investigate this matter covertly and took this Zhentarim bait. Please understand...~
+@1104 = ~\[Intimidate\] - Have you ever slew a dragon? Do you know how to defeat the overwhelming gaze of a Beholder's eyes? How many demons have you slain? How about how many vampires you put out of misery? Were your hands ever covered in blood so much you didn't even know it was yours or the hundreds of orcs you just slain? What about fire giants? Did you even see one let alone kill one? Do you know how difficult it is to face Drows in combat? And you want to try me for theft? Don't make me laugh!~
+@1105 = ~\[Use loophole\] - (You found some legal loopholes in Flaming Fist law. Used it as an argument for your defense).~
+@1106 = ~\[Confabulate\] - You just want to frame us? We're adventurers resisting the ogre army defeating orc hordes, and killing draongs are all the things we do... And you want to frame us of plundering civilian houses? Even a fool wouldn't believe you...~
+@1107 = ~\[Negotiate\] - We are adventurers we have no need to steal to get by. I believe you know the differences between thieves and adventurers?~
+@1108 = ~\[Use forged evidence\] - (You hand over forged document stating Grand Dukes of Baldur's Gate commissioned your party to perform a secret mission that is not to be subjected to general Flaming Fist law).~
+@1109 = ~\[Intimidate\] - Will you sober up and quickly put an end to this farce? Look me straight in the eye? Thieves us!? Maybe I should kill everyone here where they stand and raze this whole place to the ground!!!~
+@1110 = ~\[Use loophole\] - (You point out the loopholes in the judge's description of some legal provisions).~
+@1111 = ~\[Confabulate\] - This is ridiculous. How can you think we did this when our financial resources allow us to buy this damned entire property!~
+@1112 = ~\[Negotiate\] - We believe in the justice and fairness of the law.~
+@1113 = ~\[Use forged evidence\] - (Hand over a false testimony). This proves that I was not on the scene at the time it occurred.~
+@1114 = ~\[Intimidate\] - All lies all of you! You publicly violate the sacred laws! Perhaps I should teach you and let you know what is the meaning of the fine punishment! (Push abruptly witnesses and judge).~
+@1115 = ~\[Use loophole\] - (You show the judge you know the law of Flaming Fist all too well)~
+@1200 = ~Hero of the Sword Coast was else do you have to say?~
+@1300 = ~<CHARNAME> given your reputation I am curious what else can you say?~
+@1400 = ~My friend, do you have anything to say?~
+@1500 = ~<CHARNAME> do you have anything to say for your defense?~
+@1600 = ~<CHARNAME>, what else can you add to your argument?~
+@1700 = ~Friends, no matter how others look at you I will judge you fairly and in accordance to law. What else do you have to say?~
+@1800 = ~<CHARNAME>, if you still want to argue just say it! But don't try to dispute selfless and fair law of the Flaming Fist.~
+@1900 = ~You are just plain villain! Can you even say anything for your defense?~
+//Skill result
+//GG
+@2000 = ~\[SUCCESS\]What you said seems to make sense (thinks about it). I will seriously consider it.~
+@2020 = ~\[Failed\]Don't even try to toy with me. I am not a fool!~
+@2100 = ~\[SUCCESS\]What you said makes sense I will consider it.~
+@2120 = ~\[Failed\]I don't agree with you.~
+@2200 = ~\[SUCCESS\]This is incredible... yet it seems what you are talking about is true. Guards! Arrest the witness!~
+@2220 = ~\[Failed\]Are you kidding me? Do you think you can just violate this trail with your baseless lies? You just lost your opportunity to debate your judgment which will I announce now!~
+@2230 = ~\[SUCCESS\](He looks at you with doubt then nods lightly).~
+@2250 = ~\[Failed\](Tears the letter into shreds) This is ridiculous! Why don't you say outright you are Duke of Baldur's Gate? Your lies make you lose opportunity to debate your judgment which will I announce now!~
+@2260 = ~\[SUCCESS\](After reading the testimony you handed in judge says): This document seems to have some authenticity I will seriously consider it.~
+@2280 = ~\[Failed\]It's a pity that your forgery is so bad and plain on sight or else I might believe you? <CHARNAME>, please don't try to fix the law for you!~
+@2300 = ~\[SUCCESS\]It's you what do you want? Oh I see this accusation sound absurd but rest assured I will handle it impartially.~
+@2320 = ~\[Failed\]Don't think that you can threaten me like! It doesn't matter what great things you have achieved. In the face of Flaming Fist law everyone is equal!~
+@2330 = ~\[SUCCESS\]Please calm down... I know that this accusation is somewhat unreasonable. Please let the proceeding continue. Flaming Fist law is fair and just for all.~
+@2350 = ~\[Failed\]Are you trying to threaten us? Kill us all? Do you know even what you are talking about? Control your temper or I will throw you in the slammer.~
+@2360 = ~\[SUCCESS\]Please be quiet... I believe that the justice of the Falming Fist law will give you a satisfactory verdict.~
+@2380 = ~\[Failed\]Your threats are useless. You better tell us the truth.~
+@2400 = ~Well... (He looks frustrated like he never encountered situation like this before).~
+@2410 = ~What you said... makes sense. I am sorry for negligence on my part (scratches his head).~
+@2420 = ~You seem to know Flaming Fist law through and through. (Makes a big grin).~
+////Other actions
+@100000 = ~Please give me some time I need to think about it.~
+@100100 = ~I want to ask something the witnesses who accused me of stealing.~
+@100110 = ~I have nothing more to say. Come forth with your judgment please.~
+////Ending
+@100120 = ~(Thinks about it then nods) Now be quiet. I will announce the final verdict.~
+//Innocence
+@100200 = ~Due to insufficient evidence and guilt not proven beyond reasonable doubt the defendant is therefore acquitted of all charges.~
+@100201 = ~\[Negotiate\] - Your honor thank you for your fair judgment but I demand compensation. I want to sue the witness he deliberately slandered, ruined my reputation, and tried to extort gold from me and my party. I hope he receives the fine punishment he deserves for submitting false accusations.~
+@100202 = ~Your honor thank you for the fair judgment.~
+@100203 = ~This is not the verdict I demand! Looks like I will have to put myself on my own the trail...~
+@100204 = ~\[Negotiate\] - Your honor thank you for fair judgment. However the witness deliberately tarnished my reputation. I demand the witness to compensate me...~
+@100205 = ~\[SUCCESS\]In my opinion the witness that stands before us deliberately framed you... I will detain him.~
+@100206 = ~\[SUCCESS\]I hereby announce the witness deliberately attempt to extort gold from <CHARNAME> by falsely suing. Therefore the witness is required to pay 100 gold pieces fine to <CHARNAME>.~
+@100207 = ~\[Failed\]I don't think this is a reasonable request. Do you have anything else to say?~
+@100208 = ~\[SUCCESS\]I hereby announce the witness deliberately attempt to extort gold from <CHARNAME> by falsely suing. Therefore the witness is required to pay 100 gold pieces fine to <CHARNAME>. (The witness does not have gold required therefore you have right to confiscate the item).~
+@100209 = ~\[SUCCESS\]But because the witness turns to be first time offender please forgive him. We took this ring after Thief Ryu dropped it while running away. It doesn't do much for us but it may help you on your journey.~
+
+//Offense
+@100210 = ~Based on the available evidence the defendant is sentenced to serving 3 days in jail because infractions committed are minor.~
+@100212 = ~I accept your verdict your honor.~
+@100213 = ~This court ruling is pure injustice! I will never let you punish me like this...~
+//Misdemeanor
+@100220 = ~Based on the available evidence the defendant is sentenced to serving 10 days in jail.~
+@100222 = ~I accept your verdict your honor.~
+@100223 = ~Don't even think about locking me up because you will all die by my hand!~
+//Felony
+@100230 = ~Based on the available evidence and poor reputation the defendant is sentenced to serving 30 days in jail.~
+@100232 = ~I accept your verdict your honor.~
+@100233 = ~Mark your words because they are the last ones you will ever say!~
+//Forged evidence successfully applied
+@100299 = ~Our hero I sincerely thank you for your contribution to the security of the Sword Coast. I won't hinder your significant task. You can leave immediately. Also please accept his ring after Thief Ryu dropped it while running away. It doesn't do much for us but it may help you on your journey.~
+@100300 = ~Our hero I sincerely thank you for your contribution to Amn. I won't hinder your significant task. You can leave immediately. If there is anything else pressing I will inform you.~
+@100301 = ~Because of the amount of evidence in favor of defendant innocence and lack of incriminating evidence and in accordance to Flaming Fist law I now declare this person acquitted of all charges effective immediately.~
+@100302 = ~Thank you your honor for the fair judgment and your generosity.~
+@100303 = ~For me this simply will not suffice... Let's gut your bellies all open up!~
+//Witnesses disappear
+@100400 = ~This is your so-called witness? Next time find someone who is sober and awake! Since the evidence is insufficient the accused is now acquitted of all charges.~
+@100401 = ~(Pointing at the witness) This is ridiculous! Who told this madman to come here?~
+@100402 = ~What happened to the witnesses? Why everyone remains silent! This only means that due to insufficient evidence, I now declare the defendant innocent.~
+@100403 = ~Is the guard really that dumb for accusing me of stealing? This must be joke!~
+@100404 = ~The witness fell asleep wake up your witness this instance! Because of insufficient evidence I now declare the defendant innocent.~
+@100405 = ~(Pointing toward the witness who panicked). Is this man blind? But he can hear me very well and distinguish someone by appearance really?~
+@100406 = ~Who would believe in this fool's accusations? It seems that some of you would and are alike him! I now declare the defendant innocent.~
+@100407 = ~Since the witness has just now given up on accusing I now declare the defendant innocent.~
+@100408 = ~Since the witness has just now given up on accusing I now declare the defendant innocent.~
+@100500 = ~Since the evidence the witness provided is seriously insufficient I now declare the defendant innocent of all charges.~
