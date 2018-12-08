@@ -1,4 +1,4 @@
-# NMTP-English
+# NMTP-English Macholy's tweak Pack v1.2 
 Bugged nonplayable Alpha. Requires BGT. Not compatible with EE version. 
 
 Feel free to take over the translation project. Some dialogue needs to be fixed because it doesn't make sense but you shouldn't have 
