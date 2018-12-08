@@ -15,7 +15,7 @@ Buggs and CTDs:
 
 -Game CTD when sentenced to serve time by Flaming Fist Enforcer. 
 
--Trail by Amnish Soldier completely doesn't work - dialogs don't want to fire up.
+-Trail by Amnish Soldier completely doesn't work - dialogs don't want to fire up when witnesses are being called for testimony.
 
 Mod components:
 
